@@ -1,0 +1,15 @@
+{
+  "name": "ECNH - Commercial Correspondence",
+  "short_name": "ECNH",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0B1F3A",
+  "theme_color": "#0B1F3A",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/512/0B1F3A/C9A961?text=ECNH",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
