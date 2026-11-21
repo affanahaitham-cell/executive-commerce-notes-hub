@@ -1,0 +1,564 @@
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+                                                   Chapter (3)
+
+
+
+                                            Office Equipment's
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 0 of 19                                                                 By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+Chapter (3): Office Equipment's
+
+
+Contents:
+
+1. . Office Equipment's:
+        1.1       Photocopying machine
+        1.2       Scanner
+        1.3       Printers
+        1.4       Plastic Comb Binding
+        1.5       Shredder machine
+        1.6       Projectors
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 1 of 19                                                                 By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+1. Office Equipment's:
+1.1      Photocopying machine
+
+
+
+
+        Figure 3.1: Photocopying Machine (1)                   Figure       3.2:     Photocopying         Machine        (2)
+
+
+   A Photocopier (also known as a copier or copy machine) is a machine that makes paper copies of
+    documents and other visual images quickly and cheaply.
+   Most current photocopiers use a technology called xerography, a dry process using heat. (Copiers
+    can also use other output technologies such as ink jet, but xerography is standard for office
+    copying.)
+   Photocopier can work as:
+     Copier-based
+     Printer-based
+
+
+ Photocopier Instructions:
+
+1) Turn on the photocopier. Locate the power switch, usually on the top of the photocopier on the
+
+    control panel. Some photocopiers have a power switch on the side. Many photocopiers have a
+    "sleep" mode that reduces power consumption while the copier is still on. Pressing the "Copy"
+    button on the control panel will usually cause the copier to "wake up."
+2) Allow the photocopier to warm up. Most photocopiers require a couple of minutes to warm up.
+
+    Older photocopiers typically take longer than newer models
+3) Place your document on the glass platen. Lift the cover of the photocopier; the platen is the glass
+
+    surface underneath. Place your document face down on the glass. At the edges of the glass you'll see
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 2 of 19                                                                 By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+    guide marks that indicate where to position your document. If the photocopier has a document
+    feeder instead of a cover over the platen, do not lift the document feeder off the platen. Instead place
+    your document(s) in the document feeder. Usually you will insert the document face up. Look at
+    your document feeder. "Place document face up" or "Place document face down" will often be
+    noted directly on the document feeder.
+4) Lower the photocopier cover onto the platen if you are not using a document feeder.
+
+5) Select the number of copies to be made. The control panel of the photocopier will have a display
+
+    that shows the number of copies that will be produced. The photocopier may have a number key pad
+    for selecting the number of copies, or it may have arrows, or a plus and minus sign, for changing the
+    number incrementally.
+6) Select color or black and white if the photocopier is a color copier.
+
+7) Select the appropriate size paper on the control panel. Most photocopiers will have at least two
+
+    paper trays, one with 8 1/2-inch by 11-inch paper, and the other with 8 1/2-inch by 14-inch paper.
+    Most photocopiers also have a "paper bypass" feed that allow you to insert a single sheet of special-
+    sized paper. If you need to make multiple copies on a special size or special color paper, you'll need
+    to place the special paper directly in one of the main paper trays.
+8) Reduce or enlarge the original image, if necessary. Many photocopiers have preset buttons for 50
+
+    percent, 150 percent or 200 percent enlargements. You may need to set the reduction or
+    enlargement percentage using a number key pad. Consult the photocopier user manual for specific
+    instructions.
+9) Set other image editing features or functions on the photocopier, if necessary. Many photocopiers
+
+    will produce two-sided copies, copy two original documents on one page, collate, punch holes or
+    staple. Consult the photocopier user manual for specific instructions.
+10) Press the "Copy" button. The "Copy" button is usually the largest button on the control panel. It
+
+    may also be labeled "Start." Often the button will be green, or have green markings. Your copies
+    will be produced.
+
+
+ Photocopying Tips & Warnings
+
+   For photocopiers with document feeders, you can usually lift the document feeder and place a
+    document directly on the platen, if necessary. The document feeder will not be activated during
+    copying.
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 3 of 19                                                                 By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+   When using a photocopier that functions as document center, always make sure you are not
+    interrupting somebody else's copy job. Or, if you need to interrupt a copy job, get permission before
+    doing so.
+   When performing basic user maintenance, like adding toner, notice that internal parts of the copier
+    meant to be operated or manipulated by the user are brightly colored, often florescent green or
+    orange. Do not touch any internal parts of the copier without permission and training.
+   If paper or documents become jammed during photocopying, read the photocopier instruction
+    manual before attempting to remove the jammed paper or document.
+   Never access the inner working mechanisms of the photocopier without permission from the
+    photocopier owner, or your boss, if you are at work. Electricity or moving parts may injure you, or
+    you may damage the machine.
+1.2      Scanner
+A scanner, more officially called an optical scanner, captures the image of a usually flat object (a
+printed document, photograph, or drawing, for instance) in digital form and transfers that data to a
+PC. Typically, the entire document (including text and graphics) is input as a single graphical image
+that can be resized, inserted into other documents, posted onto a Web page, e-mailed, or printed, just
+like any other graphical image, but any text in the image cannot be edited.
+Scanners exist in a variety of configurations (see Figure 3.6), as follows:
+      a) A flatbed scanner:
+is designed to scan flat objects one page at a time. Flatbed scanners work in much the same way that
+photocopiers do -- whatever is being scanned remains stationary while the scanning mechanism moves
+underneath it to capture the image. Most models can scan in color, and some even have attachments
+for scanning slides and film negatives.
+
+
+
+
+                                                Figure 3.6: Scanners
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 4 of 19                                                                 By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+    b) A sheet fed scanner:
+works similarly to a flatbed scanner, but documents are inserted into the top of the scanner instead,
+similar to a fax machine. This design reduces the scanner's cost and the amount of desk space
+required. However, the feature also prevents the device from scanning bound-book pages or other
+items thicker or larger than a sheet of paper.
+
+
+    c) Handheld scanners:
+are useful for capturing short newspaper or magazine articles, as well as Web addresses, names, and
+telephone numbers. The handheld scanner shown in the figure uses flash memory to store up to
+2,000 pages of text and can transfer stored data to a handheld or desktop PC via a serial or infrared
+(IrDA) connection.
+
+
+ Using a scanner:
+
+
+
+
+Figure (3.7): HP Scanjet 8200                                  Figure(3.8):HP Scanjet 2410
+
+
+                    Because there is different types of scanners, the following steps are general in their
+                    description:
+                    1) Place the side of the document you want scanned face-down on the glass plate.
+                    2) Line the document up on the glass plate using the guides on the side of the glass.
+                    3) Press the scan button to start the process, which should open a window in the
+                        scanning software on your computer presenting you with several options and
+                        settings.
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 5 of 19                                                                 By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+                    4) Choose your settings and options.
+                    5) Save your scanned image; select the drive or folder where you would like to store
+                        the scanned document.
+Note: Refer to the attachments: (2.1) and (2.2) Printers manuals, which are used in the Model Office
+
+
+1.3      Printers
+         There are mainly two types of printers:
+        A. Ink-jet printers
+                Ink-jet printer is a printer for computers. It uses special ink to print on the paper. Another
+                 type of printing technology is the Laser printer.
+                Usually, inkjet printers are used by people who print very little. The ink comes in special
+                 ink cartridges, which can be very expensive and uneconomical. Also, the ink in the
+                 cartridge may dry up. This means that a new cartridge is needed. Three colors of
+                 cartridges, which combine magenta, yellow and cyan inks are used to create color tones.
+                 A black cartridge is also used for crisp monochrome output.
+
+
+
+
+                                                     Ink-jet printer
+
+
+How to Replace a Toner Cartridge in Ink-jet printers
+
+                Some of these printers come with all their color inks in a cartridge; if you want to replace
+             on color, you must replace all the colors. Other color ink-jet printers allow you to replace ink
+             individually.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 6 of 19                                                                 By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+                 The Steps:
+
+
+
+
+             1)   Turn on the printer by pressing the power button. You have to have the device on to
+                  access the toner cartridges of most units.
+
+
+
+
+             2)   Open the printer door to access the toner cartridges. In some models, you will have to
+                  press and hold the release button and pull the lid toward you. When the cover is lifted on
+                  most laser printers, the carriage automatically slides to the right side of the unit for easy
+                  access to the cartridges.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 7 of 19                                                                 By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+            3)    Remove the spent cartridge from the printer.
+                  Depending on the model, you may have to unhook the cradle holding the cartridge in
+                   place, or press the release tab inward to unlatch the cartridge you want to remove. With
+                   some printers, you may have to hold down the blue release button at the side of the
+                   cartridge carriage.
+                  Once unlocked, remove the cartridge by pulling it up and toward you.
+
+
+
+
+            4)    Take the new cartridge out of the box, but keep it in its plastic packaging. Sometimes,
+                  during shipping, ink can settle in the toner drum, resulting in poor-quality copies. To
+                  prevent this problem, gently shake the cartridge. This helps fully distribute toner
+                  throughout the cartridge.
+
+
+
+
+            5)    Remove the new cartridge from its packaging and pull the colored tab on the
+                  cartridge. This removes the protective tape from the bottom of the cartridge.
+                    While doing this, be careful not to touch the imaging drum on the bottom of the print
+                    cartridge. Smudges on the drum can cause print-quality problems.
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 8 of 19                                                                 By: Wail Nassar Badah
+     Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+     --------------------------------------------------------------------------------------------------------------------------
+
+
+             B. Laser printers
+                      A laser      printer is     a printer for computers.        It    uses LED-technology           to    get
+                       small particles of toner from          a cartridge onto paper.         Very       often,      this         is
+                       more economical to use than the ink of inkjet printers.
+
+
+
+
+                                                           Laser printer
+
+
+              How to Replace a Toner Cartridge in Laser printer
+
+
+1.       Push the button to open the print-cartridge door, and then remove the print cartridge.
+
+
+
+
+2.       Remove the new print cartridge from the bag. Place the used print cartridge in the bag for
+     recycling.
+
+
+
+
+3.     Grasp both sides of the print cartridge and distribute the toner by gently rocking the print cartridge.
+     CAUTION: Do not touch the shutter or the surface of the roller.
+     --------------------------------------------------------------------------------------------------------------------------
+     Page 9 of 19                                                                 By: Wail Nassar Badah
+     Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+     --------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+4.        Bend the tab on the left side of the cartridge until the tab breaks loose. Pull the tab until all the tape
+     is removed from the cartridge. Place the tab and tape in the print-cartridge box to return for recycling.
+
+
+
+
+5.       Align the print cartridge with the tracks inside the product, insert the print cartridge until it is
+     firmly seated, and then close the print-cartridge door.
+
+
+
+
+6.       Installation is complete. Place the used print cartridge in the box in which the new cartridge
+     arrived. See the enclosed recycling guide for recycling instructions.
+
+
+
+      Printer Instructions:
+                 Printer does not have power indicator: make sure that the light of printer is on, usually the
+                  color of light is be green.
+                 Cables not connected properly: you must sure the cables of printer is connected with power
+                  and computer.
+                 Printer error (orange or blinking light): this could indicate a paper jam, issue with the ink or
+                  toner cartridge, or other serious error.
+     --------------------------------------------------------------------------------------------------------------------------
+     Page 10 of 19                                                                By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+             Figure 3.12: Network printer                                Figure 3.13: Ink-jets printer
+
+How to ensure of the printer connection?
+
+
+     Connecting the power cable:
+            First connect the power cable of the printer, and then turn it on.
+
+
+     Connecting the USB cable:
+
+    1. Plug the USB cable into the printer.
+
+    2. Plug the other end of the USB cable into the computer when prompted to do so during the
+       software installation.
+
+
+
+
+                                           Figure (3.14) USB cable connections
+
+
+     Connecting the parallel cable:
+
+    1. Connect the parallel cable to the printer.
+
+    2. Connect the other end of the parallel cable to the computer.
+--------------------------------------------------------------------------------------------------------------------------
+Page 11 of 19                                                                By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+                                              Figure (3.15) Parallel connection
+
+
+
+
+    2.6. Plastic Comb Binding:
+
+    Note: comb pins hold the comb in place, while comb teeth pull the comb open.
+
+    Punching: punch your paper and cover stock in preparation for comb insertion.
+
+
+
+
+Note: check your manual for recommended number of sheets in single punch.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 12 of 19                                                                By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+Threading: Insert your comb spine, and pull teeth open.
+
+
+
+
+         Then carefully line up your document with comb.
+
+
+
+Finishing: After insertion, hold in place and unlock bar.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 13 of 19                                                                By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+         Then the book appears like:
+
+
+
+
+         The equipment that use in the plastic comb binding:
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 14 of 19                                                                By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+2.7. Shredder Machine
+
+
+
+
+                                           Figure (3.16) Shredder Machine
+
+     Directions for Operating a Paper Shredder
+    1. Read the user's manual that came with your shredder, since shredder design can vary.
+
+    2. Position the paper shredder over a trash can if your shredder does not have a built-in trash can.
+       If the shredder has a built-in trash can, continue to Step 3.
+
+    3. Plug the power cord into an electrical outlet.
+
+    4. Place sheets of paper, checks or other documents in the slit in the paper shredder. The paper
+       shredder will automatically begin to shred the documents; do not force the paper in. Check the
+       user's manual to determine how many sheets of paper your shredder can shred at a time.
+
+    5. Empty the trash can when it becomes full to prevent the paper shreds from clogging the
+       machine.
+
+Paper Shredder Tips
+     Do not overload the shredder. Always check the user's manual to see how many sheets the
+      shredder can shred at a time.
+
+     Never put your fingers in a shredder or allow children to play with shredders.
+
+     Apply lubricating oil to your paper shredder cutting heads when necessary to improve
+      performance and prolong the life of your paper shredder.
+
+     Avoid shredding envelopes, even if your paper shredder claims to be able to; the glue on the
+      envelopes will eventually damage the shredder.
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 15 of 19                                                                By: Wail Nassar Badah
+    Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+    --------------------------------------------------------------------------------------------------------------------------
+
+
+         Avoid shredding paper clips and staples whenever possible; this will help extend the life of
+          your shredder.
+
+    2.8. Projectors
+
+
+
+
+   About Your Projector:
+
+
+
+
+    --------------------------------------------------------------------------------------------------------------------------
+    Page 16 of 19                                                                By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+              Connecting to a Computer
+
+
+
+
+* Main Menu:
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 17 of 19                                                                By: Wail Nassar Badah
+Office Management II                                   Chapter 3: Office Automation and Office Equipment's
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+References:
+
+http://www.inc.com/encyclopedia/office-automation.html
+http://en.wikipedia.org/wiki/Office_automation
+http://en.wikipedia.org/wiki/Photocopier
+http://www.ehow.com/how_4473321_use-photocopier.html
+http://www.konicaminolta.eu/en/business-solutions/products/office/discontinued-products/multifunctional-printers/black-
+white/bizhub-363/downloads.html
+https://www.princeton.edu/~achaney/tmve/wiki100k/docs/Fax.html
+http://www.mtsac.edu/~rpatters/CISB11/Chapters/Chapter_04/Chap04/LectureMain.htm
+http://www.slideshare.net/bensneak/a-computer-is-a-programmable-machine-that-receives-input
+http://www-sop.inria.fr/acacia/fabien/lecture/uk1999/computers_types/
+https://www.princeton.edu/~achaney/tmve/wiki100k/docs/Printer_(computing).html
+
+
+http://h20566.www2.hp.com/portal/site/hpsc/template.PAGE/public/kb/docDisplay/?sp4ts.oid=410622&spf_p.tpst=kbDoc
+Display&spf_p.prp_kbDocDisplay=wsrp-navigationalState%3DdocId%253Demr_na-c00229702-
+2%257CdocLocale%253D%257CcalledBy%253D&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.en
+dCacheTok=com.vignette.cachetoken#N10011
+
+
+https://suite101.com/a/paper-shredder-machines-instructions-and-tips-a200475
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Page 18 of 19                                                                By: Wail Nassar Badah
+

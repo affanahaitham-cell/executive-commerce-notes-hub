@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- بعد إنشاء المستودع، استبدل USERNAME و REPOSITORY باسم حسابك واسم المستودع. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://USERNAME.github.io/REPOSITORY/</loc></url>
+</urlset>

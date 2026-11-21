@@ -1,0 +1,346 @@
+Office Management 5          Chapter 5: Logistics and Distribution
+
+
+
+
+                      Logistics and
+       Chapter
+                      Distribution
+               5
+Office Management 5                                Chapter 5: Logistics and Distribution
+
+
+5.1. Introduction
+
+The key components of logistics have been an important feature of industrial
+and economic life for countless years, but it is only in the relatively recent
+past that logistics has been recognized as a major function in its own right.
+The main reason for this has probably been the nature of logistics itself. It is
+a function made up of many sub-functions and many, each of which has
+been, and may still be, treated as a distinct management operation.
+
+The appreciation of the scope and importance of logistics and supply chain
+has led to a more scientific approach being adopted towards the subject. This
+approach has been aimed at the overall concept of the logistics function as a
+whole and also at the individual sub-systems. Much of this approach has
+addressed the need for, and means of, planning logistics and the supply
+chain, but has also considered some of the major operational issues.
+
+5.2 Scope and definition
+
+Parallel to the growth in the importance of distribution, logistics and the
+supply chain has been the growth in the number of associated names and
+different definitions that are used some of the different names that have been
+applied to distribution and logistics include:
+
+      Physical distribution;
+      Logistics;
+      Business logistics;
+      Materials management;
+      Procurement and supply;
+      Product flow;
+      Marketing logistics;
+      Supply chain management;
+      Demand chain management;
+      And there are several more.
+
+There is, realistically, no ,true’ definition that should be pedantically applied,
+because products differ, companies differ and systems differ . Logistics is a
+diverse and dynamic function that has to be flexible and has to change
+Office Management 5                                Chapter 5: Logistics and Distribution
+
+
+according to the various constraints and demands imposed upon it and with
+respect to the environment in which it works.
+
+These many terms are used, often interchangeably, in literature and in the
+business world. One quite widely accepted definition that uses some of these
+terms also helps to describe one of the key relationships. This is as follows:
+
+Logistics = Materials management + Distribution
+
+An extension to this idea helps to illustrate that the supply chain cover an
+even broader scope of the business area. This includes the supply of raw
+materials and components as well as the delivery of products to the final
+customer. Thus:
+
+Supply chain = suppliers + Logistics +Customers
+
+Logistics and the supply chain are concerned with physical and information
+flows and storage from raw material through to the final distribution of the
+finished product. Thus, supply and materials management represents the
+storage and flows into and through the production process, while distribution
+represents the storage and flows from the final production point through to
+the customer or end user. Major emphasis is now placed on the importance
+of information as well as physical flows and storage.
+
+5.3 Definition of logistic :
+
+Logistics is the art and science of managing and controlling the flow of
+goods, energy, information and other resources. (Wikipedia, 2006)
+
+Logistics management is … the planning, implementation and control of the
+efficient, effective forward and reverse flow and storage of goods, services
+and related information between the point of origin and the point of
+consumption in order to meet customer requirements and it is the positioning
+of resource at the right time, in the right place, at the right cost, at the right
+quality.
+
+Logistics concerns the efficient transfer of goods from the source of supply
+through the place of manufacture to the point of consumption in a cost-
+effective way whilst providing an acceptable service to customer.
+Office Management 5                              Chapter 5: Logistics and Distribution
+
+
+For most organizations it is possible to draw up a familiar list of key areas
+representing the major components of distribution and logistics. These will
+include:
+
+      Transport,
+      Inventory,
+      Packaging and unitization,
+      Information and control,
+      Storage, warehousing and material handling.
+
+This list can be ‘exploded’ once again to reveal the detailed aspects within
+the different components. Some typical examples are given in Figure 1.2
+
+
+
+
+Figure 5.2 The key components of distribution and logistic, showing some of the
+associated detailed elements
+‫‪Office Management 5‬‬                                 ‫‪Chapter 5: Logistics and Distribution‬‬
+
+
+
+
+                      ‫تنسيق الحصول على متطلبات اإلدارة‬
+
+                                                        ‫تمهيد‪.‬‬        ‫‪.5.4.‬‬
+                                     ‫توفير المواد والمستلزمات‪.‬‬        ‫‪.5.5.‬‬
+           ‫إعداد طلبات الشراء لألجهزة غير المتوفرة في اإلدارة‪.‬‬        ‫‪.5.6.‬‬
+                             ‫استالم المواد والمستلزمات لإلدارة‪.‬‬       ‫‪.5.7.‬‬
+                                    ‫حصر المصروفات النثرية‪.‬‬            ‫‪.5.8.‬‬
+‫‪Office Management 5‬‬                                                                                                                                                 ‫‪Chapter 5: Logistics and Distribution‬‬
+
+
+
+                                                                                                                                                                                                                     ‫‪ 5.4‬تمهيد‪:‬‬
+     ‫ات تو ا ا ا ا ا ا‬            ‫ك ا ا ا ا ا اتتت و ت ا ا ا ا ا ا‬                  ‫اااااا‬                           ‫تحت ا ا ا ا ا اأو مؤ سة ا ا ا ا ا اتل ما بشك ا ا ا ا ا ال وت ا ا ا ا ا ا ةس اة تك ا ا ا ا ا اتو أ‬
+  ‫ا ح اا ا ا ا‬             ‫اا ا ا ات‬              ‫اا ا ا ات ا اا ا ا ا سة اا ا ا اتل‬                            ‫بشكاا ا ا ال‬                ‫ااتيأتألاا ا ا اأ اا ا ا ا‬                    ‫ن عياا ا ا ال ة تاا ا ا ا ةس اة تكاا ا ا اتو أ‬
+    ‫ت و ا ا ا ا ا اأ‬              ‫وا ا ا ا ا ا‬            ‫ا ا ا ا ا ا ت ك ا ا ا ا ا اق ة ح ا ا ا ا ا ا‬                                ‫كا ا ا ا ا ا‬                 ‫ق ا ا ا ا ا اك ة )يستكوكا ا ا ا ا ا تقتا ش ا ا ا ا ا اتا‬
+                                                    ‫ةإلسةرل‪.‬‬             ‫نك ة قدر و ت كق اتجتيع ةحتيأجأ‬                                                                                           ‫هذه ة حتيأجأ‬                           ‫إسةرتك‬
+
+
+                                                                                                                                                          ‫‪ 5.5‬توفير المواد والمستلزمات‪:‬‬
+‫ا ا ا ا ا ال شا ا ا ا ا ات دة ك‬                       ‫ت‬           ‫ا ا ا ا ا ا ةس ا كا ا ا ا ا اتو أ‬                            ‫ا ا ا ا ا ام تسسحتا ا ا ا ا اك توا ا ا ا ا اك شا ا ا ا ا اتحتأو إ ا ا ا ا ا ا‬
+‫شا ا ا ا ا ات دة ك ة ت أش ا ا ا ا ا ات‬                               ‫ةإلسةرل ما ة ت تا ا ا ا ا اش‪ .‬اة ت ا ا ا ا ا ا ةس ة تا ا ا ا ا ات تا ا ا ا ا ا ا‬                                                ‫ة ت أشا ا ا ا ا ات ما تجألق ا ا ا ا ا ا ة‬
+    ‫تجألقا ا ا ا ا ة‬                  ‫م ا ا ا ا اأ ة تا ا ا ا ا ةس اة تكا ا ا ا اتو أ‬                                 ‫ة حسا ا ا ا ا‬        ‫ا وسا ا ا ا اأ‬                ‫ثا ا ا ا ا ة قا ا ا ا ام اة د أشا ا ا ا ال اة ا ا ا ا اد أ ي‬
+   ‫اااااا‬              ‫كا ا ا ا ا ا‬                ‫اار ة ت ا ا ا ا ا ا ت ا شا ا ا ا ا اك منا ا ا ا ا اك شا ا ا ا ا اتا‬                                                        ‫ة ت تا ا ا ا ا اش ثا ا ا ا ا ا ص ح‪،‬ا ا ا ا ا ات ة سا ا ا ا ا اأو‬
+   ‫ا ا ا ا ا ة حي ا ا ا ا اأ‬                      ‫ا ا ا ا ا ات‬       ‫ا ا ا ا ا ها ا ا ا اذه ة تا ا ا ا ا ةس اة تكا ا ا ا اتو أ‬                                           ‫ا ا ا ا اأ هحتا ا ا ا اأو إ يا ا ا ا اظ ا ا ا ا ادحت‬             ‫تا ا ا ا اس ق‬
+‫ت اا ا ا ا ا ا اك ا تا ا ا ا ا ا ا ا قت ة تا ا ا ا ا ا ا ا ةس‬                      ‫اا ا ا ا ا ا ا‬            ‫اأ ا ا ا ا ا ا ا ا ةإلسةرل ما ة كا ا ا ا ا ا ا ا‬                             ‫شا ا ا ا ا ا ا اقت تا ا ا ا ا ا ا ا قت ةحتيأجا ا ا ا ا ا ا اأ‬
+‫ا ا ا ا ا تحدحا ا ا ا اد ة ا ا ا ا اسأتألأ‬                            ‫ا ا ا ا اأ ها ا ا ا ات ة ت ا ا ا ا ا ةس اة تكا ا ا ا اتو أ‬                                      ‫وي ا ا ا ا اك م تحا ا ا ا ادس ما‬                       ‫اة تكا ا ا ا اتو أ‬
+                                                                                                                                                                                                                                ‫ت قتهأ‪.‬‬
+‫ة تت اا ا ا ا ا ال‬            ‫ة تاا ا ا ا ا ات تحتأجألاا ا ا ا ا اأ ا اا ا ا ا ا اأ إلجاا ا ا ا ا ا ةت ة‬                                 ‫ا اا ا ا ا ا ات تحدحاا ا ا ا ا اد ة تاا ا ا ا ا ا ةس اة تكاا ا ا ا ا اتو أ‬
+‫– ا ا ا ا ا ا ات ة أ ا ا ا ا ا ا اش‪ -‬حا ا ا ا ا ا ات ت ‪ ،‬ا ا ا ا ا ا ال نتا ا ا ا ا ا ا و وا ا ا ا ا ا اش‬                                            ‫قألا ا ا ا ا ا اأص حقا ا ا ا ا ا ا‬      ‫أ تبشكا ا ا ا ا ا ال ة تا ا ا ا ا ا ات ت تاا ا ا ا ا ا‬
+‫ة ت يا ا ا ا ال ت سقا ا ا ا اذه ا ا ا ا اد‬                        ‫وجألا ا ا ا اأ‬                    ‫ا ا ا ا ا هحا ا ا ا ا‬         ‫ة تا ا ا ا اأ تا ا ا ا ا ا ا‬                     ‫كوتا ا ا ا اأ ا ا ا ا ات ة ا ا ا ا ا‬         ‫ة تكا ا ا ا اتو أ‬
+  ‫ة ا ا ا اتال –إ ة تا ا ا ا ت ا ا ا اك‪ -‬ما حا ا ا ات‬                                                     ‫ا ا ا اأ‬             ‫ا ا ا ات ظ إ ا ا ا اأ ا ا ا ا‬                      ‫ت قيا ا ا اع ة تا ا ا ادحت ويا ا ا اظ ا ا ا ا حا ا ا ات‬
+                                                                                                                                                               ‫ة أرو ت أ كيأشل ة تبشكل‪.‬‬                                                     ‫شتةؤه‬
+  ‫تت‬          ‫حق‬               ‫ت ت ل ت قت ة تكتو أ‬                                                            ‫وتأ تو ش شيأشل ة تبشكل ا د ةشت دةسهأ إلنسأ‬
+‫ت قتهأ‬                 ‫و‬                 ‫قتألأ ا أ تأ ت ت ت‬                                            ‫ش‬                     ‫ج ة‬                     ‫هذه ة ت ةس اة تكتأ أ‬                                       ‫م‬         ‫ض ةت آ‬
+                                                                                                                                                                                                                                  ‫أشتتتةر‪.‬‬
+
+
+    ‫ق ةإلسة ةر‬                           ‫ة ت ةس ة ت تتال‬                                        ‫ةحتيأجأتك هت‬                                                          ‫نأحيل م ت قد تجد م‬                                          ‫ا‬
+            ‫ةحتيأجأ‬                      ‫م هأ‬                    ‫اإ ة اجد‬                                   ‫ةت‬                   ‫ة جألل ة تك ل‬                                     ‫ألأ د‬             ‫ا أ تأ ت شقت ة ت ر قد‬
+   ‫و‬                       ‫ةح‬                    ‫ةج ةت ة‬              ‫ة ت تف‬                                                ‫ص ة تك‬                             ‫ة‬               ‫هك‪ ،‬ت قتهأ فيت ك م تكتسكت‬
+‫وش ش ةت ح ضح هذه ة ت ةس‬                                                        ‫تت وش إ دةس‬                                        ‫ةت آ‬                                         ‫ات ة أش م‬                                ‫هذه ة حتيأجأ‬
+‫‪Office Management 5‬‬                                                           ‫‪Chapter 5: Logistics and Distribution‬‬
+
+
+‫قتل‬       ‫ت ح ة ك تقت شوسل ن دهل‬              ‫ض ةت آ‬               ‫ة سأتظ دقل ات‬               ‫ااتيأتألأ ع ضتارل تحدحد‬
+                     ‫ة أ ل اة أجول‪.‬‬           ‫ت ةجألل ة ت أر ف ة كي ل كة ثت أ ا ا ض ة ت ةس اة تجألق ة‬
+
+
+                                ‫‪ 5.6‬إعداد طلبات الشراء لألجهزة غير المتوفرة في اإلدارة‬
+‫شئ تت ت ظ‬             ‫ك م ت جقد ا ا محيأنأ نجد من أ حأجل إ‬                       ‫أ تت د إ‬           ‫ة سأ‬    ‫إ ة ا ت ت تف‬
+‫ة ت ةس ة تت تحتأجألأ هت‬              ‫توسل ا ت ض ة حيأ تا‬                   ‫ج سة‬     ‫ت دسل سش أ ا كت أ‬                   ‫ن عيأ‬
+  ‫اا‬       ‫ة توسأ‬      ‫ت دسل‬         ‫و ش‪،‬ق ة تثأ تت ت مش أ‬                  ‫قل‬     ‫ل مشت دة ت )تاف‬
+ ‫قل‬       ‫ت )تاف‬          ‫ألأ ت أشش ة شت دة‬            ‫ةآل ت ا أ تأ ت ام‬                       ‫ألأ ظ أ يل ت تو‬             ‫ش‬
+ ‫جألتظ شسأ ل ا ظ ث‪،‬ت ألا ةر سا‬                     ‫مشتي ت حج ‪ A4‬إحد‬                     ‫حس‬      ‫و‬       ‫ةحتجت إ‬         ‫تثم‬
+‫ةشت دة ة ةت ل‬             ‫تكت د ظ تث‪،‬قت ما ةر جدحدل سا ة حأجل إ‬                         ‫هت‬      ‫ت ت تألأ حق‬       ‫ة حأجل إ‬
+‫هذة‬       ‫ة سأ‬      ‫ل ة ا‪،‬قتل ا حأا ت م تضع‬                        ‫ة تت‬     ‫إنك شتجد هذة ة ع ت ةت ت ة تحم‬
+                                            ‫و شت ل ت سقذ و ك‪.‬‬                ‫هكت ‪،‬ألأ س ر ة ت تت أ‬               ‫د‬       ‫ة تو‬
+‫أف ة تت تل دحألأ‬           ‫ل أل‬            ‫ة تت‬     ‫ة تت ت تهأ ة تحم‬             ‫اة ة‬        ‫ة شت أنل أ اتأ جأ‬           ‫ات‬
+                     ‫أحتص و ة شتسأسل ألأ‪.‬‬                  ‫سقق‬            ‫اهذه شتكأ د اثق ةت ت تحدحد ةحتيأجأتك‬
+
+
+                                                           ‫‪ 5.7‬استالم المواد والمستلزمات لإلدارة‪:‬‬
+‫ة ت ةس ة ت و ب‬             ‫ت‬        ‫حق‬    ‫ة ت ةس اة تكتو أ‬        ‫تس ق‬     ‫تةح‬           ‫قتل‬        ‫اهت ة تتحول ة‬
+  ‫أشتل ت‬         ‫و‪،‬ألأ ت جش وش ش ةت م أ إ ة ت تس ق ألأ‬                    ‫ة ت رس إ ة ت‬               ‫ة تكت س أ‬       ‫شتةؤهأ إ‬
+‫ة تأ يل‬    ‫ة‬        ‫ة تكت سع اتت د ة‬              ‫تف ةشتح أ ة ت رس ما ة كوسل م حت ش د ت ر د‬                          ‫ت و أب‬
+                                                                                                             ‫د ة شتم ص‬
+                    ‫رل اةضحل ظ‪.‬‬             ‫ة وش ة ذؤ ت ت ج ظ وش توك ة ت ةس ما‬                             ‫‪ ‬محضت م‬
+‫اة اتيل‬        ‫ة ت ة سأ‬        ‫حق‬         ‫أ ل أ ت ت ر ده ع أ ارس ت وش ة ةت‬                                   ‫‪ ‬ة تسود‬
+                                                                                                           ‫اة ك ت‪.‬‬
+                     ‫ة س يل إ ة اأ ة ت هكتد ت ك‪.‬‬                   ‫ة ت ة سأ‬         ‫‪ ‬ة شت أنل ت تص وتسود‬
+                     ‫محيل ة ت ةس إ ة اأ ة ت هكتد ت ك ‪.‬‬                              ‫‪ ‬ة شت أنل ت تص وتسود‬
+‫أإلسةرل ما ة تدحت نسكظ م أ‬               ‫ص ة ذؤ و‪،‬ت ظ إ ة اأنت ت ص إحد ة أ وق‬                           ‫‪ ‬تكويتألأ و‬
+                                                    ‫ة تكوي ‪.‬‬     ‫ك منت أل أ ةنتألت إج ةت ة‬              ‫إ ة اأنت ت‬
+‫‪Office Management 5‬‬                                                             ‫‪Chapter 5: Logistics and Distribution‬‬
+
+
+‫د ت تهأ‬        ‫ة تت حت تش و‬             ‫ة ت ةس اة تكتو أ‬             ‫دهك ت قد‬              ‫ة تأل م تحتس‬       ‫ا‬
+‫أ آ ت اأ تكت سع‬           ‫ت تهأ ت‬              ‫ألذة ة ت قد فيجش ة تسود‬             ‫تحتس‬      ‫ة ت اإ ة‬        ‫ما ت‬         ‫تق‬
+‫ثم ه ت د ة درل‬             ‫ك‪،‬ش ك سأ ح‪،‬ت ة سأو‬                        ‫ة ت‬           ‫د نسأ هأ جسل ات‬           ‫ثم ضتأ‬
+‫حق تس ق ة ح‪،‬ت ا نسذ هذة ة ح‪،‬ت ت نألأهل ساة‬                             ‫و جألأ ة سأو‬              ‫و ةشتق أ ة تتةشم‬
+‫ول نألأهل ة ش‪ ،‬ع اهذة‬          ‫ة ةرسل م‬                 ‫ةشتق أ ة تتةشم‬            ‫هت‬       ‫هذة منظ‬     ‫ت‬      ‫ة تي‬             ‫ح‬
+                                                                                   ‫ضأ ةر ت ض ة ت آ ‪.‬‬                     ‫قد ه‬
+
+
+                                                                                                ‫إعداد بالغات الصيانة‪:‬‬
+
+    ‫ةشتتتةر ة ت‬     ‫ة تكأ دل و‬            ‫ة‬              ‫أ م ألتأ‬          ‫أ‬       ‫يأنل اإ مح ة‬         ‫ت ت‪،‬ت ة‬
+‫د‬        ‫حيح اتضت‬                   ‫ت ة ت‬              ‫ةشتتتةر ةآل ل ما ة جألأ‬            ‫يأنل ة ت ت تل تكأ د و‬            ‫أ‬
+‫يأنل ت تل ح ضح ت‬               ‫حأجل إ‬                ‫ة جأل ل ة تت تا‬             ‫تم قألأ ا‬     ‫ش أب اأ هت‬           ‫ةت ق‬
+‫ثم‬     ‫يأنل ة دار ل ألأ‬    ‫ة قد ة‬       ‫يأنل ما س ق ة تكت د ا‬                  ‫ألأ كس ق ة ت ق اة‬        ‫ة تت ل‬         ‫ة اتق أ‬
+‫ر ة تت‬      ‫يأنل حكش دس ة‬           ‫ة‬         ‫تويأ‬      ‫ة تت تكت د ة ر ة أسؤ تت‬                 ‫ت اة سأوكأ‬        ‫ةت‬           ‫آ‬
+                              ‫ر‪.‬‬          ‫ة‬          ‫م ا ق ل تكتألوك د دس‬                     ‫تهأ حق‬       ‫قأ ت ةآل ل ت‬
+
+
+                                    ‫ةإلسةرل‬          ‫ت وأ‬        ‫و‬      ‫ت كق ة ح‬
+
+
+                                                      ‫ة تأ ت ص‬       ‫يأنل ة‬       ‫م هس ذ نت و وش ة‬               ‫ات‬
+‫‪Office Management 5‬‬                                                                                        ‫‪Chapter 5: Logistics and Distribution‬‬
+
+
+
+
+  ‫‪Maintenance Dept.:‬‬                                                                                                                                                                                                                               ‫قسم الصيانة‪:‬‬
+
+
+
+                                                                                                                                                                                               ‫تأر خ ة وش ‪/ /‬‬
+
+                                                                                        ‫يأنل‬    ‫وش‬
+
+                                                            ‫‪REQUEST FOR MAINTENNACE‬‬
+
+  ‫ــــــــــــــــــــــــــ ‪To Maintenance Center:‬‬                                                 ‫إلى قسم الصيانة‪ :‬ـــــــــــــــــــــــــــــــــــــــــــ‬
+
+
+  ‫‪Name of Person requesting maintenance:‬‬                                                         ‫اسم الشخص الذي يطلب منك الصيانة‪ :‬ــــــــــــــ‬
+
+
+
+              ‫القسم (‪ : )Section‬ـــــــــــــــــــــــــــــــــــــــــــ الموقع‪ :‬ـــــــــــــــــــــــــــــــــــــــــــــــــــــ‬
+
+
+
+  ‫ا ا ا ا ا اا ا ا اا اا اا اا اا اا ا ا اا اا اا اا اا ا اا ا ااص‪Nature Of complaint‬‬                         ‫ص ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا اا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا ا‬         ‫‪،‬ي ل ة‬
+
+
+
+                                                                             ‫توقيع صاحب الطلب (‪ :)Signed by‬ا ا ا اا اا اا ا ا اا اا ا ااا اا ا اا ا اا ااا تاريخ الطلب‪:‬‬
+
+
+
+  ‫‪Phone No.:‬‬                                                                                                                                                                                                                                        ‫رقم الهاتف‪:‬‬
+  ‫‪Assigned:‬‬                                                                                                                                                                                                                                        ‫تم إحالته إلى‪:‬‬
+  ‫‪Date:‬‬                                                                                                                                                                                                                                                  ‫التاريخ‪:‬‬
+
+
+  ‫‪Signed By Technical:‬‬                                                                                                                                                                                                                  ‫توقيع المختص‪:‬‬
+Office Management 5                                         Chapter 5: Logistics and Distribution
+
+
+Parts Needed:                                     ‫ق ع ة غيأر ة تأ يل ص‬   ‫يأنل ة م ل تحتأو إ‬        ‫ة‬
+…………………………………………………………………………………………
+……………………………………………………………………………………..
+
+                                   ‫ة قيأ ألأ أ قت ة حأضت ش أب ص‬           ‫هت‬     ‫يأنل ة ت و ل‬      ‫ة‬
+
+The maintenance can't be done because:
+................................................................................................
+.........................................................................................
+
+ ——— ‫يأنل ص‬        ‫أحش ة وش و إتتأ ة‬           ‫ت قيع‬                     ‫يأنل ة م ل‬      ‫ت ةج ةت ة‬
+Signature of Requistioner: ___________                            Maintenance completed
+
+
+
+............................................................................ ‫ص‬    ‫مح أ‬
+
+
+
+
+Maintenance Supervisor‫ص‬                                                        ‫يأنلص‬   ‫قك ة‬     ‫ري‬
+‫‪Office Management 5‬‬                                                           ‫‪Chapter 5: Logistics and Distribution‬‬
+
+
+
+
+‫ة تت تكت د ألأ ما تت ة ت ت‬                 ‫يأنل وتجألق ة‬     ‫ة قد ة‬        ‫دهك شج ح ضح‬             ‫ة تأل م ه‬          ‫ا‬
+  ‫ة ت سل حق‬          ‫يأنل سة‬        ‫يأنل حت إرشأ ظ وجألل ة ت ت ل أ‬               ‫إ دةس وش ما مغ‬             ‫ةإلسةرل ات‬
+‫‪ ,‬ما حداث مضتةر‬                ‫ض ة تجألق ة‬         ‫و‬       ‫يأنل قد حتك‪،‬ش ت إ أ ة ضتأ‬             ‫ة قد ة‬        ‫م تجأا‬
+‫ج سل م تتتسس‬            ‫تا ة اتق أ‬           ‫ة تت ع ة جألأ ما‬              ‫تجد ة ت و ل ت ة اتق أ‬       ‫وجألأ ا إ ة‬
+                                                       ‫يأنل وجألأ ‪.‬‬         ‫اق ة جألأ ا وش ة قد ة‬              ‫أ ت أ‬
+
+‫ألأ سكك ما‬            ‫يأنل ة ت ت تل ة تت هجش ويك م ت‬                       ‫ض م تأ ة‬        ‫ا مح ة ه أ‬
+         ‫ت‬        ‫دهك ت ةإلسةرل ا ثأ ألأ ت يف ض مج ة آ ل ة ت‬                      ‫ةش ل محد ة ش أص ة ت ج سح‬
+                                                                              ‫ا أ ل ة وق ر ‪.‬‬      ‫ا ثوألأ ة سأو‬   ‫ت‬
+
+     ‫ن ق ص‬           ‫ة ت أو ة تسأج ل اغقت ة تت ق ل ألت ت ك إ‬                      ‫أ اهت ع أرل‬          ‫م أ ت حأ ل ة‬
+
+ ‫أشت دة ة جألأ ا ثأ‬                 ‫ه‬       ‫ذك‬         ‫إ محألأ ما ه‬           ‫م ت‬      ‫‪ ‬أعطال خفيفة ‪ :‬هت‬
+‫ضحل ت‬             ‫ةإل مح‬        ‫ة‬         ‫اة أ ل اشتجد‬           ‫ت اة سأو‬      ‫ت آل ةت‬     ‫كح تة ر‬
+‫يأنل ة أص أ جألأ ‪.‬‬              ‫ما ت س ق ة ت ق اة‬                   ‫ة دة‬         ‫غ أ ة جألأ‬      ‫ة أش و‬
+    ‫ألأ ألذة ة ت ما ت وش‬                  ‫ة تت ت‬   ‫م تت ة تتل ة ا‬            ‫ة تأل م ن قت ه أ إ‬           ‫اا‬
+‫ص ما دهظ ة ‪،‬تل أ قيأ ألذة‬                    ‫تحت إشتةف ش ص ت‬                   ‫ش ص ة قيأ ألأ وتتل ة ا‬
+‫ص ة ت سذ و ت ما حت شم ل‬                       ‫أ تب ت و شم تك ما شم ل ة‬                   ‫ة ت تج أ ؤ م‬
+                                                                                               ‫ة جألأ نسكظ‪.‬‬
+                                                                                       ‫‪ ‬األعطال الكبيرة ص‬
+
+‫ة تيأر‬       ‫وظ‬     ‫إغم ة جألأ ا‬              ‫ص وقيأ ألأ ا أ تأ ت شت‬              ‫ص ة تت‬       ‫اه أ شتحتأو ة ت ة‬
+ ‫وش ةإل مح اهذة ه ت‬                     ‫إ دةس مغ ما‬          ‫ت‬        ‫د ك‬       ‫حت ةشت دة ظ‬          ‫ة األت أ ت حت‬
+                                                   ‫ة جأل ل ة تت تكت د ألأ منت ةا ة تت تكت د ت ة سةرل ‪.‬‬
+‫‪Office Management 5‬‬                                                   ‫‪Chapter 5: Logistics and Distribution‬‬
+
+
+                                                                            ‫‪ 5.8‬حصر المصروفات النثرية ‪:‬‬
+                ‫ألأ كهكت شوسل‬      ‫ع ةحد ة أ وق‬    ‫ة تأ‬         ‫‪،‬وغ كيط‬        ‫هأ‬         ‫ةإلسة ةر ه‬             ‫ت‬
+
+      ‫ك‬             ‫قتل كة ت أر ف ة أجولا اة ألدف‬          ‫ة ت أر ف ة ثت لا هكت د ت شدةس ة ت أ غ ة‬
+
+     ‫ل ت ة أسل ا د نسأ هذة ة ت‪،‬وغ‬              ‫تف ة ت‬      ‫ة‬     ‫إج ةت ة‬     ‫تكألق شقت ة ت ا د ة ت ق‬
+
+          ‫شت دة هذة ة ت‪،‬وغ ‪.‬‬         ‫ةا أر تظ و ة سأ حت ةشت أضل هذه ة كوسل د ت ده ة تكت دة‬
+
+           ‫إ دةس ق ةنقتألأ ة ت دحت ل و أ ة ت ‪ ،‬ا أ تأ ت حت ت دحت‬              ‫ةت آ‬        ‫أ ت‬         ‫ا ت نألأهل ا‬
+
+                ‫كبا‬       ‫ة ت أر ف ة تت ق ل إلسرةجألأ أ تق ةنيل ا ض ك ة )يست ت ة أ ش شتا‬
+
+           ‫ة حأجل‬         ‫ألأ اة ت ول ه أ م ن ص ة ت‪،‬وغ‬           ‫ت دحت ة ت أر ف ة ثت ل إلسةرل ة تت ت ت‬
+
+     ‫تف‬         ‫ة‬    ‫‪،‬وغ ة كوسل شي ضع إلج ةت ة‬           ‫أ ةس‬              ‫ت ة أ ةت‪،‬‬        ‫أو‬        ‫شقتك‪،‬ش ت‬
+
+                ‫‪،‬وغ ا‪،‬قت سا اج س ‪،‬تر ظ حق‬           ‫ت ده‬        ‫ل ت ة أسل ا هت‬                   ‫ة أسهل اة تت تا‬
+
+   ‫تتأس‬     ‫ة‬       ‫وش ث هذة ة ت‪،‬وغ ا ت هذه ة حأ ل حوجس غأ ‪،‬يل ة أس ة‬                ‫شي وش ك ت ده ت‪،‬ت ت‬
+
+    ‫هضأف إ يظ‬          ‫ص و أ ة حأ ت اسشأس حتكأب ة حتيأو و أ ة أس حق‬                               ‫و ة ت‪،‬وغ ة ت‬
+
+     ‫أسل‬         ‫ظ ة أسل ة ة )ألت ة ه أ‬            ‫ج ا‬           ‫ة ج ة ذؤ ت أنيظ هذة ة أ ة ة اأ ه أ‬
+
+      ‫ظ تة أ‬            ‫ت قع أسل هذة ة ‪ ،‬د ما ن‬     ‫هت‬      ‫د و حدل حق‬               ‫تف ا‬        ‫سة‬      ‫تتةجع‬
+
+                                                                     ‫و ة ت ةر ة تت ق ل ‪.‬‬                 ‫أ‬    ‫ة أس‬
+
+      ‫هذة ة أ‬          ‫ت ظ أ اأ‬     ‫ات‬      ‫أ ‪ ،‬د ة ح أر ‪ 3000‬شي‬                     ‫اأ‬          ‫و ش‪،‬ق ة تثأ‬
+
+          ‫ك شي ت‬         ‫مسةرل أ‬         ‫ت اةحدل اشقت ش ةت أو‬              ‫دهك أ ل اةحدل ا أوق ل ت‬            ‫ااأ‬
+
+                                                                    ‫ضتارل أسل ة ‪ ،‬د ت يل مح أر ة سأو‬
+

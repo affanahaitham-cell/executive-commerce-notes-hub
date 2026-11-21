@@ -1,0 +1,1265 @@
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+ Chapter
+             1                                  Recording Management
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 1 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+
+                                                       Chapter 1
+                                             Record Management
+1- Introduction
+    1-1 Overview of a system
+    1-2 Why is record management important?
+    1-3 Who is responsible for managing record and information?
+    1-4 What are records?
+    1-5 Categories of records
+    1-6 Files management
+2- Managing paper records
+    2-1 Developing a filing system
+          2.1.1. Alphabetic
+          2.1.2. Numeric
+          2.1.3. Geographic
+          2.1.4. Subject
+    2-2 Location of paper records
+          2.2.1. Centralization
+          2.2.2. Decentralization
+    2-3 Filing supplies and tools
+          2.3.1. Folders
+          2.3.2. Guides
+          2.3.3. Files labels
+          2.3.4. Filing Cabinets
+                A. Vertical Drawer Cabinets
+                B. Lateral Cabinets
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 2 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+                C. Open shelves
+                D. Mobile aisle system
+3- Indexing and Alphabetizing rules
+    3-1 Order of filing units
+    3-2 General alphabetic indexing principles
+    3-3 alphabetic filing rules
+    3-4 Variations in alphabetic filing rules
+4- Preparing paper record for filing
+5- Tracking paper files
+6- Electronic filing
+    6-1 Types of electronic files
+    6-2 Case study
+7- Retaining and transferring paper records
+8- Ethical issues in records management
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 3 of 34                                                                                   By: Wail Nassar Badah
+‫‪Office Management II‬‬                                                           ‫‪Chapter 1: Record Management‬‬
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+
+                                                                                                 ‫‪ -1‬طرق تصنيف أخرى‬
+                                                                            ‫الطريقة األبجدية العددية‬                 ‫‪1 -1‬‬
+                                                                                  ‫التصنيف التاريخي‬                   ‫‪1 -2‬‬
+                                                                                     ‫الطريقة العشرية‬                 ‫‪1 -3‬‬
+                                                                       ‫التصنيف على حسب الشكل‬                         ‫‪1 -4‬‬
+                                                                                                            ‫‪ -2‬حالة عملية‬
+                                                               ‫طريقة الحفظ المتبعة في المؤسسة‬                        ‫‪2 -1‬‬
+                                                                                            ‫قواعد عامة‬               ‫‪2 -2‬‬
+                                                                                      ‫تصنيف الملفات‬                  ‫‪2 -3‬‬
+                                                                                              ‫‪ -3‬حركة الوثائق اإلدارية‬
+                                                                                                 ‫‪ -4‬األرشفة وإجراءاتها‬
+                                                                              ‫‪ -5‬الترحيل التدريجي للوثائق اإلدارية‬
+                                                                 ‫إجراءات ترحيل الوثائق اإلدارية‬                      ‫‪5 -1‬‬
+                                                              ‫القواعد العامة للترحيل واالستهالك‬                      ‫‪5 -2‬‬
+                                                                         ‫لجنة تقييم الوثائق اإلدارية‬                 ‫‪5 -3‬‬
+                                                                                                       ‫‪ -6‬الوثائق السرية‬
+                                                                     ‫تحديد درجة سرية المعلومات‬                       ‫‪6 -1‬‬
+                         ‫اإلرشادات واالحتياطات الالزمة لتداول وحفظ سرية المعلومات‬                                    ‫‪6 -2‬‬
+                          ‫اإلرشادات واالحتياطات الالزمة للمحافظة على أمن المعلومات‬                                   ‫‪6 -3‬‬
+                ‫اإلرشادات واالحتياطات الالزمة للمحافظة على بيئة المعلومات السرية‬                                     ‫‪6 -4‬‬
+                                                                                                          ‫‪ -7‬المـــــــالحق‬
+
+
+
+
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+‫‪Page 4 of 34‬‬                                                                                   ‫‪By: Wail Nassar Badah‬‬
+ Office Management II                                                           Chapter 1: Record Management
+ --------------------------------------------------------------------------------------------------------------------------------
+
+1-         Introduction:
+
+
+      1-1             OVERVIEW OF A SYSTEM
+
+
+ An information system details how an organization plans, develops, and organizes its
+ information. Because information is recorded in many different ways, think about how
+ organization must handle the following: customer record, invoice, meeting notes from
+ board meetings, emails, inventories, and personnel information. Maintaining this
+ information in an organized and secured manner is essential to organization so it is
+ useful and immediately available to the person requesting the information at the right
+ time.
+
+
+      1-2             WHY IS RECORED MANAGEMENT IMPORTANT:
+ Effective record management ensure that the information needed is retrievable, authentic,
+ and accurate. An effective record management system require an organization to:
+      Set and follow policies
+      Identify who is responsible and accountable for managing record.
+      Create, communicate, and follow procedures consistently throughout all
+         department.
+
+
+      1-3             WHO IS RESPONSIBLE FOR MANAGING RECORD
+           AND INFORMATION??
+ Every employee is responsible. Everyone plays an important role in protecting the
+ organization's record and information by following its established policies and executing
+ its procedures. Large organization, the record manger supervises all the organization
+ files. He or she also determines how the files will be maintained and who will maintain
+ them, how long each record is to be kept, and when a record is to be removed to an
+ inactive area or made ready for more permanent storage or destruction.
+      1-4             WHAT ARE RECOREDS?
+ Records are the evidence of what the organization does. They represent its business
+ activities and decision or transaction, such as correspondence and financial statement.
+
+ Record appears in many formats:
+
+          Physical paper such as letters, and contracts;
+          Electronic mail;
+          Databases.
+
+
+
+ --------------------------------------------------------------------------------------------------------------------------------
+ Page 5 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+     1-5             CATEGORIES OF RECORD
+
+Determining the categories of record helps an office professional know whether a record
+is to be kept, where it is to be stored, how it will be stored, and how long it will be
+retained. For example, paper or electronic advertisement, requests, and inquiries have or
+no future use or value to an organization and should not be kept.
+
+     A. Vital Record
+     Vital records include records that are essential to the operation of the organization
+     or to the continuation or resumption of operation; the recreation of the legal or
+     financial status of the organization; or the fulfillment of its obligations to
+     stockholders and employees in the event of a disaster.
+
+     B. Important Record
+               Important records, such as customer and inventory record, are meaningful
+                to the business operation but must be limited as to the length of time they are
+                retained.
+
+     C. Useful Record
+               Useful records, are document, such as correspondence and reports that are
+                needed to conduct the daily business operation.
+
+     D. Nonessential Record
+               Nonessential records, are not needed beyond their current use and should be
+                discarded after their use because they cost money in space, equipment, and
+                employee time.
+
+
+     1-6             FILES MANAGEMENT
+
+Files management, applies record management principle to both paper and electronic
+record created and used by a single office. Files management ensures that record can be
+retrieved efficiently when needed.
+2- Managing Paper Records
+
+     2-1             DEVELOPING A FILING SYSTEM
+
+     Before deciding on a particular filing system, consider the following questions:
+         How will the records be requested? By name, number, geographic location,
+            or subject a combination?
+         How will the records be retrieved? Paper or electronically?
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 6 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+          2.1.1. Alphabetic
+
+
+
+
+                   Figure (1.1) An alphabetic system for a small office.
+The alphabetic filing system retrieve records by name or topic. Figure (1.1) shows an
+alphabetic arrangement for a small office.
+
+
+
+
+Advantages:
+       Alphabetic filing is direct because you can go to the file and locate an item
+  without having to first refer to an index. An index is a listing of the filed items.
+       All other arrangements are directly or indirectly combined with the alphabetic
+  system.
+
+
+
+
+Disadvantages:
+       If everyone doesn’t strictly follow a uniform set of rules for alphabetizing records,
+  individuals could place files in many possible locations, making retrieval inefficient.
+       Expansion may create problems when the expansion takes place in a section of
+  paper files where there is no space to insert additional folders.
+       Confidentiality of the files cannot be guaranteed because the file folder Labels can
+  be seen by anyone retrieving a file.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 7 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+          2.1.2. Numeric
+In the numeric filing system, material is filed in some logical numerical order. Examples
+of users include insurance companies that keep records according to policy numbers.
+
+
+
+
+                                   Figure (1.2) Example of numeric filing.
+
+
+
+
+                                   Figure (1.3) Alphabetic listing of names.
+
+Advantages:
+         It is well suited for records with identification numbers, for rapidly expanding
+          files, and in conjunction with data processing systems.
+         There are no duplicates of numbers as there can be with names.
+         It is easier to notice a filing error with numbers.
+         Numeric filing is the fastest to use and results in the fewest errors. Coupled with
+          shelf filing equipment and color coding, numeric filing systems simplify
+          document processing.
+         It is easy to expand the system.
+
+Disadvantages:
+         You must use an index, ad shown in figure 1.3, listing the names to which the
+          number is assigned. For this reason, a numeric system is called indirect filing.
+         You must use a register, often called an accession register or master index, to
+          show the next number available for assignment.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 8 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+          2.1.3. Geographic
+          The geographic filing system is commonly used by sales and marketing
+          personnel and others who are concerned with the location of companies and
+          individuals. Such as by city, state, or region or territory. Shown figure 1.4
+
+
+
+
+                                 Figure (1.4) Example of geographic filing system.
+
+
+
+
+Advantages:
+         Allows for direct filing if the location is known.
+         It provides easy access because groups of records are filed together.
+
+Disadvantages:
+         An index is required if the location is not known.
+         Sorting the records by city, state, territory, or region increases the possibility of
+          error.
+
+
+          2.1.4. Subject
+          The subject filing system allows you to file records alphabetically according to
+          the main subject because the subject is considered to be more important than the
+          individual or business name. companies that deal with products, supplies,
+          advertising, and so forth use subject arrangements. Figure (1.5)
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 9 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+                                          Figure (1.5) Example of subject filing.
+
+Advantages:
+      Access is easy because subject filing relates to groups of records.
+      Subdivision easily expand the system.
+Disadvantages:
+         It requires an index to file or retrieve files by firm name when the subjects is
+          unknown.
+         It is difficult to classify records by subject; therefore, time is lost while someone
+          searches for a file under a number of subject choices.
+
+         Which is the best system to use? Without specific policies, procedures, or
+    guidelines, you must decide on the method that best suits the type of business, the type
+    of paper records being filed, the way in which they are used, and the method that
+    ensures the fastest storing and retrieval.
+
+          2-2        LOCATION OF PAPER RECORDS
+     In considering location, your team should answer the following:
+     Who needs to have access to the records?
+     What types of records are stored?
+     How frequently will the records need to be accessed?
+     What procedures are needed to protect the files from loss, damage, theft, and
+    unauthorized use?
+          2.2.1. Centralization
+          In a centralized filing system, records are placed in one central location that is
+          convenient for a group of people who must work with the same information. The
+          electronic equivalent to centralized filing would be a shared directory, also called
+          a folder, that is part of a local area network (LAN) or wide area network (WAN).
+Advantages:
+         Greater control over the records;
+         Storage of records with less equipment and space;
+         more readily achieved uniformity and consistency.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 10 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+           2.2.2. Decentralization
+           In a decentralized filing system, individuals or very small groups of employees
+           maintain files at their workstations.
+
+Advantages:
+          Records are more accessible.
+          Limited access to a record provides greater security and confidentiality.
+
+     2-3      Filing Supplies and Tools
+
+     2.3.1.          Folders
+
+Folders, are the containers for holding the paper. Folder come with tabs, which are the
+extensions at the top of the folders. A tab holds a label to identify the folder's contents
+and is available in different widths called tab cuts; for example, if the tab is one-fifth as
+wide as the folder, it is called one-fifth.
+
+
+
+
+                                        Figure (1.6) Example of tab cuts.
+
+          Types of Folders: Other folders frequently used in offices:
+
+
+      a)     Manila folders:
+      Folders, also referred to as manila folders, are the containers for holding the paper.
+      Because folders tend to take a lot of abuse, they are produced using many different
+      weight of paper. Folders come with tabs, which are the extensions at the top of the
+      folders. A tab holds a labels to identify the folder’s contents and is available in
+      different widths called tab cuts.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 11 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+                                           Figure (1.7). manila folders
+
+
+      b)     Hanging folders are suspended by extensions at their top edges across a metal
+             frame within the file drawer, which means they don’t rest on the bottom of the
+             cabinet. Records filed in hanging folders are easily accessible because the
+             folders open wide and slide smoothly on the hanger rail. Attachable tabs are
+             inserted into slots at the top of the folders and are used in place of conventional
+             guides with tabs.
+
+
+
+
+                                          Figure (1.8). hanging folders
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 12 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+      c)     Out indicators An out indicator is control device that shows the location of
+
+             borrowed records. These indicators contain a form for recording the name of
+             the person borrowing the record, the date it was borrowed, a brief statement of
+             the comments of the record, and the due dare for return to storage. When a
+             borrowed record is returned to storage, the OUT indicator is removed, to be
+             reused, thrown a way, or saved and later used to check the activity at the activity
+             at the files or to determine which records are active or inactive. Commonly
+             used indicators are OUT guides, OUT folders, and OUT sheets.
+
+
+
+
+                                             Figure (1.9) Out indicators
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 13 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+     2.3.2.          Guides
+
+
+
+
+                      Figure (1.10) Individual folders following primary guides.
+
+Dividers in traditional filing drawers or compartments are called guides. They serve as
+signposts, separating the filing space into labeled sections. Guides also support the
+folders in an upright position.
+Guides have a tab projecting from the edge, which is available in a variety of sizes and
+colors.
+
+
+
+
+                                                 Figure (1.11) guides
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 14 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+     2.3.3.          File Labels
+
+
+
+
+                                             Figure (1.12) Captions on Labels.
+
+Labels are used to help identify a folder and its contents. Labels come in a variety of
+sizes, shapes, and colors.
+For paper files, identification and labeling allows an office to maintain control over
+current files and manage growth of new files.
+For electronic files, labeling serves as an access tool that allows individual documents to
+be retrieved in an efficient manner.
+
+
+
+
+                                                  Figure (1.13) labels
+
+     2.3.4.          Filing Equipment
+When selecting filing equipment, consider the following:
+   Volume of records requiring storage;
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 15 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+         Types of records being stores
+         Space limitations.
+
+
+
+     A. Vertical Drawer Cabinets
+Vertical drawer cabinets, often referred to as standard cabinets, are popular in small
+offices. They have two, four, or five drawers. The cabinet can be moved easily and
+locked for security.
+
+
+
+
+                                         Figure (1.14) Vertical cabinets.
+
+     B. Lateral Cabinets
+
+
+
+
+                                           Figure (1.15) lateral cabinets.
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 16 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+Lateral cabinets, often referred to as horizontal files or open sided cabinets, also are
+popular in small offices. They allow files to be accessed horizontally or vertically.
+
+     C. Open Shelves
+
+
+
+
+     Figure (1.16) open-shelving equipment
+
+     Open-shelving equipment, which resembles open bookshelves, is usually found in
+     large offices and in central file rooms. The advantage of this type of lateral file
+     allows files to be retrieved horizontally and allows full viewing of the folder tabs for
+     rapid retrieval. Open shelves do not offer security for confidential or vital records;
+
+     D. Mobile Aisle Systems
+
+Mobile aisle systems are considered when access to large quantities of files is desired
+and space is at a premium.
+
+For example, hospitals still use this type of storage. These units, which can be
+automated, work on tracks that move back and forth to conserve floor space. This
+equipment usually requires professional installation.
+
+
+
+
+                                          Figure (1.17) Mobile aisle systems
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 17 of 34                                                                                   By: Wail Nassar Badah
+         Office Management II                                                           Chapter 1: Record Management
+         --------------------------------------------------------------------------------------------------------------------------------
+
+         3. Indexing and Alphabetizing Rules
+              Standardization of alphabetic filing rules is essential because it allows filing to be
+              consistent and efficient. The Association of Records Managers and Administrators
+              (ARMA) recognized the need for standardization and so published the first rules for
+              alphabetic filing
+
+
+              3-1 ORDER OF FILING UNITS
+        Let's study the following terms:
+
+     1. Unit
+        Each part of a name that is used to determine the filing order is called a unit.
+         For example, the name (B. R. Grove) has three units: (B., R., Grove.) The business name
+         (Wacky Wig Boutique) has three units: (Wacky, wig, Boutique.)
+
+     2. Indexing
+        The process of arranging units of a name in order for filing purposes is referred to as
+         indexing, as defined earlier. An example of indexing is where (B. R. Grove) is indexed
+         as     (Grove      B.      R.)     Indexing     always     precedes      alphabetizing.
+
+     3. alphabetic Filing
+        Placing names in an AtoZ sequence is considered alphabetizing. For example, placing the
+         name (Adamson) before the name (Bolton) is alphabetizing.
+
+         3-2 GENERAL ALPHABETIC INDEXING PRINCIPLES
+         Following the four general principles will help you to apply the filing rules:-
+
+1.       Alphabetize by comparing names unit by unit and letter by letter. For example, in
+         comparing the following indexed names, you would need to make the distinction in the
+         third unit because the first and second units are identical.
+         Unit 1                    Unit 2               Unit 3
+         Black                     Jeff                 Peter
+         Black                     Jeff                 Robert
+
+ 2.      Nothing comes before something. You would file a folder labeled Ross William first
+         since the first two units are identical and Ross William does not have a third unit.
+         Nothing is filed before something.
+         Unit 1                    Unit 2                 Unit 3
+         Ross                      William
+         Ross                      William                Robert
+         Another example of this principle would be:
+         Unit 1                    Unit 2              Unit 3
+         Chatham                   Bus                 Depot
+         Chatham                   Business            College
+
+
+         --------------------------------------------------------------------------------------------------------------------------------
+         Page 18 of 34                                                                                   By: Wail Nassar Badah
+     Office Management II                                                           Chapter 1: Record Management
+     --------------------------------------------------------------------------------------------------------------------------------
+
+     In this case, Bus would come before Business under the principle that nothing comes
+     before something.
+
+3.   All punctuation marks, special characters, and diacritical marks should be ignored
+     when indexing. Examples of punctuation marks found in names include periods,
+     apostrophes, quotation marks, hyphens dashes, and accent marks. For example, Ellison
+     Parker.
+       periods    apostrophes     quotation marks       hyphens dashes          accent mark
+     . It ends a let’s         “No way.”               check-in            (ăk′sĕnt′)
+     sentence     Thomas’s
+
+4.   Numbers. Arabic (1,2,3) and Roman (I, II, III) numbers are filed sequentially before
+     alphabetic characters. All Arabic numerals precede all Roman numerals.
+
+
+     3-3 ALPHABETIC FILING RULES
+
+     Learning to apply the following rules will help you to file all your paper records in nearly
+     all situations. ARMA outlines a few exceptions to these rules. If you have a particular
+     situation that requires an exception to a rule, refer to ARMA rules. To simplify this
+     section, all the exceptions have not been included. The following rules have been
+     organized into three categories:
+            A. Personal Names.
+            B. Business and Organization Names.
+            C. Government and Political Designations.
+
+ A. Specific Filling Rules for Personal Names
+
+     Rule A1: Names of Individuals
+              The surname (last name) is the first filing unit, followed by the first name or
+     initial, and then the middle name or initial. Because nothing comes before something,
+     initials (such as M) are filed before a name (such as Martha) that begins with the same
+     letter.
+     As Written                 Unit 1                    Unit 2                     Unit 3
+     Mary Abbot                 Abbot                     Mary
+     M. Appleton                Appleton                  M
+     Martha Appleton            Appleton                  Martha
+     Howard Kimble              Kimble                    Howard
+     H. A. Kline                Kline                     H                          A
+
+
+
+     Rule A2: Personal Names with Prefixes
+             Surnames that include a prefix are filed as one unit, even if a space of punctuation
+     follows the prefix. Examples of prefixes are D‘, da, de, Del, Du, La, Les, Mac, Mc, O‘,
+     Saint, San, St., Van de, and Von der and are filed with the surname as one unit regardless
+
+     --------------------------------------------------------------------------------------------------------------------------------
+     Page 19 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+of whether the surname is written as one world or two. Ignore nay apostrophe or space
+that appears within or after the prefix.
+As Written                       Unit 1                 Unit 2                  Unit 3
+Agnes Lasalle                    Lasalle                Agnes
+Paul R. La Salle                 LaSalle                Paul                    R
+Alice J. MacDaniel               MacDaniel              Alice                   J
+Susan Saint James                Saint James            Susan
+Adam Von der Mallie              Vodnermallie           Adam
+
+
+
+Rule A3: Titles and Suffixes
+        Titles and suffixes are not used as filing units except when needed to distinguish
+between two or more identical names. When needed, the title or suffix is the last filing
+unit and is filed as written without punctuation.
+As Written                    Unit 1                Unit 2                   Unit 3
+Dan Dillan, CPA               Dillan                Dan                      CPA
+Dan Dillan, Jr.               Dillan                Dan                      Jr
+Ronald McDerrit, II           McDerrit              Ronald                   II
+Ronald McDerrit, III          McDerrit              Ronald                   III
+June Ship, MD                 Ship                  June                     MD
+Mrs. June Ship                Ship                  June                     Mrs
+
+Rule A4: Hyphenated Names
+       Remove the hyphen, combine the names, and file as one unit.
+As Written                   Unit 1                   Unit 2                                                          Unit3
+Mary-Kaye Cardville          Cardville                MaryKay
+Irene Dale-Scott             Dale Scott               Irene
+Helen Ann Dixon-Jones        Dixon Jones              Helen                                                           Ann
+Sara Laura-Lee Wilkes                          Wilkes                             Sara                                lauralee
+
+Rule A5: Pseudonyms, Royal, or Religious Titles
+        Pseudonyms (fictitious name assumed by an author) are filed as written. Personal
+names that begin with royal or religious titles and are followed by only a given name(s)
+are filed as written.
+As written                         Unit 1                 Unit 2          Unit 3
+Dr. Seuss                          Dr                     Seuss
+Sister Mary Rebecca                Sister                 Mary            Rebecca
+
+Rule A6: Non-English Names
+         If the surname is identifiable, file the name as any other personal name. if the
+surname is uncertain, use the last name as the first filing unit and cross-reference (filing a
+record by a secondary name) the name as written. More in depth information is provided
+in a later section in this chapter.
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 20 of 34                                                                                   By: Wail Nassar Badah
+    Office Management II                                                           Chapter 1: Record Management
+    --------------------------------------------------------------------------------------------------------------------------------
+
+    As written                            Unit 1                 Unit 2                  Unit 3              Cross-Reference
+    FrenchFavelCaisse                     Caisse                 French                  Favel
+    PiccoliRossiCimino                    Cimino                 Piccoli                 Rossi
+    AdalbaroGarciaGabindo                 Gabindo                Adalbaro                Garcia              Garcia(Gabindo,
+                                                                                                             Adalbaro)
+    Rule A7: Nicknames
+           When a person commonly uses a nickname as a first name, file using the
+    nickname. Include a cross reference to the given name only if necessary.
+    As written                Unit 1              Unit 2           Cross-Reference
+    Bob Browning              Browning            Bob              Browning, Robert
+    Bill Watson               Watson              Bill             Watson, William
+    Kitty Williams            Williams            Kitty            Williams, Katherine
+    4. Preparing Paper Records for Filing
+   Once you decide which records are to be managed, you must establish a procedure for
+    preparing the records to be filed. The following six steps will help you prepare your
+    records for filing:
+
+         1.   Examine
+         2.   Index
+         3.   code
+         4.   Cross-reference
+         5.   Sort
+         6.   File
+
+1. Examine:
+
+        You will want to make certain the item is ready for filing. Follow these guidelines to
+         examine each item
+        Check items that are stapled together and decide if they should be filed together.
+        Staple together related paper where record refers to the other
+        Remove all paper clips and extra staples as these supplies use extra space and can
+         hang on other records.
+        Remove small slips of paper that are no longer needed, such as a slip marked “Please
+         file.”
+        Keep the routing slip with the appropriate documents. You may need to determine
+         later to whom the document was circulated.
+        Determine if document are duplicates and should be deleted/destroyed or files.
+
+2. Index
+    In a previous section, you learned indexing occurs when you determine the order and
+    format of the units in a name when a alphabetizing. Careful indexing is the most
+    important part of filing.
+
+    When you are filing correspondence by name, note the following:
+
+
+    --------------------------------------------------------------------------------------------------------------------------------
+    Page 21 of 34                                                                                   By: Wail Nassar Badah
+    Office Management II                                                           Chapter 1: Record Management
+    --------------------------------------------------------------------------------------------------------------------------------
+
+         a. Incoming letters are often called for by the name of the organization appearing in
+            the letterhead, so index them by the name of the organization in the letterhead.
+         b. Outgoing letters are often called for by the name of the organization appearing in
+            the inside address, so index them any the name of the organization in the inside
+            address.
+
+    To learn how to index for the variety of names you will encounter, follow the
+       standardized indexing rules presented earlier in this chapter.
+
+3. Code
+    After you decide how a record should be filed, mark the indexing caption on it. This
+    process is called coding. To code by name, highlight, underscore, circle, or write the
+    indexed name.
+
+4. Cross-Reference
+    When a document is apt to be called for by two different names at different times, you
+    should be able to locate it by looking under either name. to make this possible, file the
+    record according to the caption (the name arranged in index order) by which it is most
+    likely to be requested. Also, file a reference to it by a second name.
+
+5. Sort
+    Using the code marks mentioned previously as a guide, prearrange the records in the
+    same order in which they will eventually be filed. This preliminary arrangement is called
+    sorting. By sorting the records carefully, you will eliminate unnecessary shifting back
+    and forth, from drawer to drawer or form shelf to shelf, as you file them. As a result, you
+    will be working efficiently and saving time.
+
+        Horizontal and vertical sorters can expedite the process; these devices, such as trays
+         and booklets, use dividers that are labeled either alphabetically or numerically, to sort
+         records.
+
+6. File
+    After records are sorted, they are ready to be filed. Filing is the actual placing of records
+    in folders. It involves classifying, arranging, and storing materials according to a
+    systematic plan for quick reference. Here are a few tips to follow to help you in handling
+    your filing tasks:
+
+   When refilling existing records, the name on the caption in the filing system should be
+    the same as the records being refilled.
+
+    6. Electronic Filing
+
+    Electronic records are being created at an increasing rate. As the number of computer
+    files increases, the need to organize these files is more important than ever.
+
+
+    --------------------------------------------------------------------------------------------------------------------------------
+    Page 22 of 34                                                                                   By: Wail Nassar Badah
+Office Management II                                                           Chapter 1: Record Management
+--------------------------------------------------------------------------------------------------------------------------------
+
+6.1.      Types of Electronic Files
+
+    A. FILE
+    In most ways, an electronic filing system works much like a paper filing system. Put
+     simply, in an electronic filing system you have cabinets that contain file folders that
+     contain files, also called documents. In an electronic filing system, a file is any
+     document such as a spreadsheet, database, report, picture, or presentation.
+    B. FOLDER
+    A directory in an electronic system contains files. You can create as many folders
+     and subfolders as you need; however, be mindful of the number or layers of
+     subfolders. Folders organize the files in a logical manner, like using manila folders
+     inside hanging folders to organize paper documents in file cabinet drawers.
+
+    C. DRIVE
+    The drive is the physical location where folders and files can be found. A drive name
+     consists of a single letter and a colon.
+
+
+
+                                                                                          :‫ طرق تصنيف أخرى‬-1
+    ‫ الموضوعية) هنالك طرق أخرى‬،‫ الجغرافية‬،‫ العددية‬،‫إضافة إلى طرق التصنيف السابقة الذكر (األبجدية‬
+                                                                                               -:‫للتصنيف كما يلي‬
+
+
+                                                                         :‫الطريقة األبجدية العددية‬                  1-1
+‫تستخدم بعض المنشآت هذه الطريقة لالستفادة من مزايا الطريقة األبجدية والطريقة العددية معا‬
+                               .‫ إذ تستفيد من مرونة الترتيب العددي وسهولته في إعادة الملفات‬....
+‫وفي هذه الطريقة يتم تصنيف ملفات األسماء أو الموضوعات أبجديا ثم يعطى كل ملف رقم يميزه‬
+                                                                                       .‫عن باقي الملفات‬
+‫وتتطلب هذه الطريقة تخصيص بطاقة إرشادية لكل حرف من الحروف األبجدية يوضع خلفها‬
+‫ملفات األشخاص أو الموضوعات التي تبدأ بهذا الحرف دون مراعاة الترتيب األبجدي الكامل‬
+                                         .‫اعتمادا على أرقام الملفات المدونة قرين االسم أو الموضوع‬
+
+
+                                                                                 :‫التصنيف التاريخي‬                  1-2
+‫تتطلب حاجة العمل أحيانا تجميع وثائق فترة زمنية محددة وبالتالي يمثل التاريخ أهم العناصر‬
+‫ فإنها‬،‫الوثيقة وبالتالي يتم التصنيف طبقا لتاريخ اإلصدار كما هو الحال في القوانين والق اررات‬
+‫ كما يمكن للمنشآت استخدامها‬.‫تصنف طبقا لصدور التشريعات ثم تجمع في مجلدات سنوية‬
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Page 23 of 34                                                                                   By: Wail Nassar Badah
+‫‪Office Management II‬‬                                                           ‫‪Chapter 1: Record Management‬‬
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+
+‫بتخصيص ملفات للميزانية العمومية وحساباتها الختامية التي تمثل النشاط المالي خالل فترة زمنية‬
+                                                                                                  ‫محدودة‪.‬‬
+
+
+                                                ‫مثال‪ :‬الموازنة العمومية للمنشأة في السنة المالية المنتهية ‪.2011/12/31‬‬
+                                                     ‫ج‪ /‬ميزانية المرجعية عن السنة المالية المنتهية في ‪.2011/ /‬‬
+
+
+
+                                                                                    ‫الطريقة العشرية‪:‬‬                ‫‪1-3‬‬
+
+‫يطلق على هذه الطريقة اسم طريقة (ديوي) نسبة إلي مبتكرها (ملفديوي) الذي كان يعمل مصنفا‬
+‫بدار الكتب األمريكية وقد نشرها عام ‪1876‬م وتتلخص الفكرة األساسية في الترقيم العشري في‬
+‫تجميع كل المعلومات المراد تصنيفها في عشرة أبواب رئيسية ثم ينقسم كل باب إلى عشر فصور‬
+                                                              ‫ويأتي تحت كل فصل عشرة موضوعات‪.‬‬
+‫وتستند هذه الطريقة على عاملين أولهما إمكانية إضافة عدد من األرقام العشرية على يمين أي‬
+  ‫رقم إلى ما ال نهاية‪ ،‬وثانيهما إمكانية إدخال تسعة أرقام عشرية بين كل رقمين عشريين متتاليين‪.‬‬
+                                                                                                     ‫مثال‪:‬‬
+                                                                  ‫عملية بناء برج سكني بمنطقة ‪............‬‬               ‫‪.1‬‬
+                                                                                                       ‫‪ 1/1‬أعمال النجارة‬
+                                                                                                      ‫‪ 1/2‬أعمال الحدادة‬
+                                                                                                             ‫‪ 1/3‬األسمنت‬
+                                                                                               ‫الشؤون القانونية‬         ‫‪.2‬‬
+                                                                                                               ‫‪ 1/1‬قضايا‬
+                                                                                                              ‫‪ 1/2‬حوادث‬
+                                                                                                     ‫‪ 1/3‬تحقيقات إدارية‬
+                                                                                                         ‫‪ 1/1/1‬عام‬
+                                                                                     ‫‪ 1/1/2‬قضية السيد‪........./‬‬
+                                                                               ‫‪ 1/1/3‬قضية السيد‪............. /‬‬
+
+
+ ‫ويمكن االستغناء عن العالمات العشرية‪ ،‬وتتميز هذه الطريقة بإمكانية إنشاء أقسام فرعية للموضوعات حسب الحاجة‬
+                                                                                 ‫كما تبين ارتباط الموضوع الفرعي الرئيسي‪.‬‬
+
+
+
+
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+‫‪Page 24 of 34‬‬                                                                                   ‫‪By: Wail Nassar Badah‬‬
+‫‪Office Management II‬‬                                                           ‫‪Chapter 1: Record Management‬‬
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+
+                                                                               ‫‪ 1-4‬التصنيف على أساس الشكل‪:‬‬
+         ‫في هذه الطريقة يكون االهتمام بالشكل بصرف النظر عن مضمون الوثيقة وذلك نتيجة لمتطلبات العمل مثال‬
+                                                                      ‫(الخرائط‪ ،‬الصور الفوتوغرافية‪ ،‬قصاصات الصحف)‪.‬‬
+                                                                    ‫ولكن يمكن إعداد تصنيف في مرحلة تالية لهذه المواد‪.‬‬
+                                                                            ‫(شكل خارج)‬              ‫القصاصات الصحفية‬
+                                                                                ‫(موضوع)‬                           ‫الصناعة‬
+                                                                                ‫(موضوع)‬                            ‫الرياضة‬
+‫تصنيف مجموعة من األفراد على أساس صفات شكلية كما يحدث في تحديد األوزان في ألعاب‬                                      ‫‪‬‬
+                                                                                 ‫المالكمة أو المصارعة‪.‬‬
+                                                         ‫تصنيف األدوية إلى حبوب‪ ،‬كبسوالت‪ ،‬حقن‪.‬‬                      ‫‪‬‬
+                                                            ‫التقارير والدراسات والفواتير وما شابه ذلك‪.‬‬              ‫‪‬‬
+                                                                                                                     ‫التقارير‪:‬‬
+                                                                                            ‫تقارير إدارية‪.‬‬          ‫‪‬‬
+                                                                                             ‫تقارير مالية‪.‬‬          ‫‪‬‬
+                                                                                          ‫تقارير هندسية‪.‬‬            ‫‪‬‬
+
+
+                                                                                                     ‫‪ -2‬حالة عملية‪:‬‬
+                                                                ‫طريقة الحفظ المتبعة بالمؤسسة‪:‬‬                       ‫‪2-1‬‬
+                                                                                        ‫قواعد عامة‪-:‬‬                ‫‪2-2‬‬
+                               ‫يراعى التأكد من إنهاءإجراءات معالجة نوع المستند قبل البدء بحفظه‪.‬‬                     ‫‪‬‬
+                                           ‫ترقيم أوراق الملف الواحد‪ ،‬وتسلسلها حسب تواريخ حفظها‪.‬‬                     ‫‪‬‬
+‫يراعى نفس التنسيق لكافة ملفات المنشأة بحيث يظهر على (كعب الملف في حالة استخدام ‪Box‬‬                                  ‫‪‬‬
+     ‫‪ Files‬مثال رقم الملف وتاريخ فتحه‪ ،‬وتاريخ إغالقه وشعار الجمعية‪( .‬ملحق رقم ‪ 1‬الخاص‬
+                                                                                    ‫بشكل كعب الملف)‪.‬‬
+                                    ‫ترتب الملفات في الخزائن المخصصة وفق موضوعاتها وأرقامها‪.‬‬                         ‫‪‬‬
+                                ‫تستخدم الخرامة في خرم األوراق‪ ،‬وذلك في مكان متوسط من الورقة‪.‬‬                        ‫‪‬‬
+  ‫يراعى فتح ملف جديد لكل ملف يزيد عدد أوراقه عن مائة ورقة‪ ،‬أو حسب حجمه‪ ،‬وذلك بإغالق‬                                 ‫‪‬‬
+‫الملف القديم (عبر وضع عالمة تثبت إغالق الملف) بحيث يحمل الملف الجديد نفس الرقم‪ ،‬على‬
+     ‫أن يسجل على كل ملف برقم الجزء (األول‪ ،‬الثاني‪ ،‬حسب رقمه) ‪ ،‬وتثبت األوراق في ملفاتها‬
+                                                         ‫موجب أداة التثبيت الموجودة في الملف نفسه‪.‬‬
+
+
+
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+‫‪Page 25 of 34‬‬                                                                                   ‫‪By: Wail Nassar Badah‬‬
+‫‪Office Management II‬‬                                                           ‫‪Chapter 1: Record Management‬‬
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+
+                                                                                    ‫تصنيف الملفات‪:‬‬                  ‫‪2-3‬‬
+      ‫تصنف الملفات حسب الدوائر واألقسام‪ ،‬وذلك عبر إعطاء رقم لكل إدارة من إدارات المؤسسة‪ ،‬ومن ثم‬                          ‫‪‬‬
+         ‫القيام بفتح الملفات الفرعية داخل كل إدارة وفقا لألنشطة التي تمارسها الدائرة‪ ،‬وحسب ماتراه الدائرة‪.‬‬
+  ‫يجب أن ترمز كافة الملفات‪ ،‬وذلك إلخفاء محتوياتها عن أعين المتمردين على المكتب أو الموظفين الذين‬                         ‫‪‬‬
+                   ‫ليس لهم عالقة باستخدام هذه الملفات‪( .‬الملحق رقم ‪ 2‬والخاص بترميز ملفات الجمعية)‪.‬‬
+                                ‫نظام الترميز الموضوع يمكن تعديله‪ ،‬ولن يجب اإلشارة ودليل الحفظ واألرشفة‪.‬‬                  ‫‪‬‬
+
+
+                                                                                        ‫‪ -3‬حركة الوثائق اإلدارية‪:‬‬
+‫يصرح (السكرتارية) كل إدارة باستعارة مستندات أو ملفات من إدارة أخرى‪ ،‬وذلك بعد موافقة مدير اإلدارة‬                         ‫‪‬‬
+‫صاحبة هذه المستندات‪ ،‬وتوقيع المستعير على بطاقة اإلعارة ويستثنى من هذه الملفات والمستندات ذات‬
+‫السرية الخاصة إال للمختصين مثل ملفات العاملين وملفات الصرف والعقود‪ ،‬فيحظر تداولها خارج اإلدارة‬
+                                 ‫المختصة إال بإذن كتابي من اإلدارة المختصة والتوقيع على نموذج االستالم‪.‬‬
+‫الباحثونن‪ 2‬ورجال الهيئات القضائية واإلعالم يمكن السماح لهم باإلطالع على الوثائق اإلدارية عن طريق‬                         ‫‪‬‬
+‫األرشيف بشرط الحصول على موافقة كتابية من رئيس إدارة المؤسسة‪ ،‬أما مندوبو الجهات الرقابية فيتم‬
+‫اطالعهم على مستندات الصرف واإليراد في اإليرادات المالية بمعرفة رئيس إدارة المؤسسة ومدراء هذه‬
+                                                                                                             ‫اإلدارات‪.‬‬
+‫استعارة الوثائق اإلدارية يجب أال تزيد عن ‪ 48‬ساعة‪ ،‬وعلى (سكرتارية) اإلدارة صاحبة الوثائق المعارة أن‬                       ‫‪‬‬
+                                                                                           ‫يطلب بردها هذه المهلة‪.‬‬
+
+
+‫عند طلب وثائق إدارية سواء ملف أو مستند من إدارة ما على سبيل اإلعارة‪ ،‬يجب (سكرتارية)‬
+                                                                                               ‫هذه اإلدارة القيام باآلتي‪:‬‬
+     ‫التعرف على موضوع الملف أو المستند واستخراجه من خزانة الملفات بعد تحديد رقم تصنيفه‪.‬‬                            ‫‪.1‬‬
+‫تسليم الوثائق المطلوبة للمستعير بعد مراجعتها ومعرفة عددها‪ ،‬ثم تسجيل بياناتها في سجل‬                                ‫‪.2‬‬
+‫اإلعارة الخاص ومن ثم في بطاقة اإلعارة مع ضرورة توقيع المستعير عليها‪( .‬ملحق رقم ‪3‬‬
+                             ‫الخاص ببطاقة حركة الملف)‪( ,‬ملحق رقم ‪ 4‬الخاص ببطاقة اإلعارة)‪.‬‬
+‫تقوم (السكرتارية) اإلدارة بوضع بطاقة اإلعارة في درج أو ملف خاص مرتب وفق أرقام‬                                      ‫‪.3‬‬
+‫موضوعاتها‪ ،‬ووضع إشارة مكان المستندات المعارة تفيد ذلك‪ ،‬إلى أن يتم إعادة الملفات إلى‬
+                                                                                                   ‫مكانها‪.‬‬
+‫يجب على (السكرتارية) اإلدارة مراجعة بطاقات اإلعارة المحفوظة لديه يوميا‪ ،‬لتحديد ما إذا انتهت‬                        ‫‪.4‬‬
+                                                               ‫مدة إعارة منها وتحرير مطالبات رد بها‪.‬‬
+
+
+
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+‫‪Page 26 of 34‬‬                                                                                   ‫‪By: Wail Nassar Badah‬‬
+‫‪Office Management II‬‬                                                           ‫‪Chapter 1: Record Management‬‬
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+
+                                                ‫عند رد الوثائق اإلدارية المارة تقوم سكرتارية اإلدارات باآلتي‪:‬‬
+‫استخراج بطاقة اإلعارة من مكانها بالدرج ومراجعتها مع الملفات أو المستندات للتأكد من ورودها‬                         ‫‪.1‬‬
+                                                                                                    ‫كاملة‪.‬‬
+                           ‫التوقيع على بطاقة اإلعارة بما يفيد عودة الوثائق وتسليمها إلى المستعير‪.‬‬                 ‫‪.2‬‬
+‫إعادة الوثائق إلى مكانها واستبعاد اإلشارة التي تبين وجودها بالخارج‪( .‬ملحق رقم ‪ 5‬الخاص‬                             ‫‪.3‬‬
+                                                                                        ‫باستالم الملف)‪.‬‬
+
+
+                                                                                         ‫‪ -4‬األرشفة وإجراءاتها‪-:‬‬
+‫يجب تخصيص غرفة خاصة لألرشيف بحيث تحفظ فيها كافة المستندات غير النشيطة‪ ،‬ويكون‬                                      ‫‪.1‬‬
+‫هناك موظفا مسئوال (المساعدة اإلدارية) عن هذه الغرفة وإدارة الملفات داخلها بحيث يلتزم هذا‬
+               ‫الموظف بترحيل الوثائق اإلدارية‪ ،‬والتي سيتم التطرق إليها بالتفصيل في هذا الدليل‪.‬‬
+‫سيتم تقسيم الوثائق اإلدارية في المؤسسة بالنظر إلى قيمتها ومدد استبقاءها أرشيفيا إلى ‪ 3‬أنواع‬                       ‫‪.2‬‬
+                                                                               ‫موضحة بالشكل اآلتي‪-:‬‬
+  ‫وهي الوثائق التي ال يترتب عليها آثار التزامات أو حقوق قانونية ويمكن‬                        ‫وثائق ذات قيمة زمنية مؤقتة‬
+                                    ‫االستغناء عنها فور االطالع عليها‪ ،‬مثل‪:‬‬
+  ‫مسودات الخطابات والتقارير واألوامر بعد نسخها أو طبعها أو‬                     ‫‪‬‬
+                                                            ‫تصويرها‪.‬‬
+  ‫الخطابات التي ترد غلى الغارة لإلطالع دون أن تكون هذه‬                         ‫‪‬‬
+                                       ‫اإلدارة مقصودة بما ورد فيها‪.‬‬
+  ‫حضور‬        ‫التهاني والشكر ودعوات‬             ‫خطابات وبطاقات‬                 ‫‪‬‬
+  ‫االجتماعات أو المقابالت أو الحفالت‪ ،‬مالم ير مدير اإلدارة‬
+                                             ‫استبقائها لديه شخصيا‪.‬‬
+  ‫المذكرات والتقارير واألوامر والمكاتبات ذات النسخ المكررة‬                     ‫‪‬‬
+          ‫مالم تكن هناك ضرورة لالحتفاظ بأكثر من نسخة منها‪.‬‬
+  ‫وهي الوثائق التي يرجع إليها بين وقت وآخر لطلب بيانات أو اتخاذ‬                              ‫وثائق ذات قيمة زمنية محددة‬
+  ‫ق اررات ما بشأن موضوعاتها أو الرد عليها باإلفادة‪ ،‬وهذا النوع من‬
+  ‫الوثائق يقوم مدير كل إدارة بتحديد المدة الالزمة الستبقائها وعرضها‬
+  ‫على لجنة تقييم الوثائق العتمادها باستخدام نموذج استبعاد وإيداع‬
+                                                               ‫الوثائق اإلدارية‪.‬‬
+  ‫وثائق ذات قيمة زمنية غير محدودة وهي التي يتعين االحتفاظ بها لمدة طويلة‪ ،‬أو إلى األبد ألهميتها‬
+  ‫القصوى للعمل واالعتماد عليها بصفة دائمة في اتخاذ الق اررات‪ ،‬كما أن‬                                                ‫أو دائمة‬
+
+
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+‫‪Page 27 of 34‬‬                                                                                   ‫‪By: Wail Nassar Badah‬‬
+‫‪Office Management II‬‬                                                           ‫‪Chapter 1: Record Management‬‬
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+
+  ‫لها آثار إدارية أو قانونية طويلة األمد ويترتب عليها حقوق للغير وتقوم‬
+              ‫اإلدارات بتحديد الوثائق من هذا النوع ألرشفتها بصورة دائمة‪.‬‬
+
+
+                                                                        ‫‪ -5‬الترحيل التدريجي للوثائق اإلدارية‪:‬‬
+                                                                  ‫إجراءات ترحيل الوثائق اإلدارية‬                    ‫‪5-1‬‬
+‫يتم فرز وغربلة الوثائق اإلدارية المتجمعة في كل من إدارات المؤسسة خالل بداية شهر ديسمبر‬                             ‫‪‬‬
+‫من كل عام‪ ،‬ويتم تجنب الوثائق غير النشطة أو متوسطة النشاط والتي ترى اإلدارات عدم جدوى‬
+‫االحتفاظ بها لديها‪ ،‬باستخدام نموذج استبعاد وإيداع الوثائق اإلدارية لترحلها إلى األرشيف أو‬
+                                                                            ‫اتخاذ قرار بشأن استهالكها‪.‬‬
+‫يقوم مدراء اإلدارات بمراجعة هذا البيان والتأكد من عدم الحاجة لهذه الوثائق أو التعديل في البيان‬                     ‫‪‬‬
+‫سواء بالحذف أو اإلضافة والتوقيع بإمضائهم على نموذج استبعاد وإيداع الوثائق اإلدارية من‬
+                                                                                           ‫أصل وصورة‪.‬‬
+‫تقوم سكرتارية كل إدارة بإرسال أصل وصورة من نموذج استبعاد وإيداع الوثائق اإلدارية إلى قسم‬                           ‫‪‬‬
+                            ‫األرشيف‪( .‬الملحق رقم ‪ 6‬الخاص بترحيل الوثائق إلى قسم األرشيف)‪.‬‬
+‫بالنسبة للمستندات المالية وأوراق الصرف والفواتير فيتم استبقاءها في دائرة الشؤون المالية لمدة‬                       ‫‪‬‬
+‫عامين تحت طلب الجهات الرقابية‪ ،‬وبعدها تحول إلى تحول إلى األرشيف بناء على الئحة مدد‬
+                                                                                                   ‫الحفظ‪.‬‬
+‫يقوم الموظف المختص باألرشفة (المساعدة اإلدارية) باتخاذ إجراءاته لتنفيذ ما ورد في اللوائح‬                           ‫‪‬‬
+                               ‫والنماذج الواردة من اإلدارات بالتنسيق مع لجنة تقييم الوثائق اإلدارية‪.‬‬
+
+
+                                                              ‫القواعد العامة للترحيل واالستهالك‬                     ‫‪5-2‬‬
+‫عند وضع الئحة تبن الفترة الزمنية الخاصة بالوثائق اإلدارية (مدد الحفظ) فإنه من الضروري‬
+‫مراعاة بعض القواعد التي يتم على أساسها ترحيل األوراق واستهالكها ونعرض هنا بعض هذه‬
+                                                                                                  ‫القواعد‪:‬‬
+                                                                  ‫أن بعض األوراق تفقد أهميتها تلقائيا‪.‬‬             ‫‪‬‬
+‫أن أساس الترحيل هو مدى التوسع في استخدام األوراق تبعا للفترة الزمنية ومدى الحاجة للرجوع‬                            ‫‪‬‬
+                                                                                                     ‫إليها‪.‬‬
+‫كلما طال عمر األوراق فإنه من الضروري النظر في ترحيلها‪ ،‬أما التخلص من األوراق فال يجب‬                               ‫‪‬‬
+‫أن يكون أساسه هو عمرها إنما الفصل في ذلك هو مدى الحاجة إليها وأهميتها بالنسبة ألعمال‬
+                                                                                                ‫المؤسسة‪.‬‬
+             ‫التعليمات القديمة التي صدرت تعليمات حديثة بإلغائها يجب النظر في التخلص منها‪.‬‬                          ‫‪‬‬
+
+
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+‫‪Page 28 of 34‬‬                                                                                   ‫‪By: Wail Nassar Badah‬‬
+‫‪Office Management II‬‬                                                           ‫‪Chapter 1: Record Management‬‬
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+
+                                  ‫الملفات التي انتهت يجب النظر في ترحيلها كلما قل الرجوع إليها‪.‬‬                    ‫‪‬‬
+‫يجب دائما التنبه لألوراق التي تثبت حقوق إدارة المؤسسة أو األفراد والتي ترتبط عادة بسقوط‬                            ‫‪‬‬
+‫الحق أو التقادم وفقا للقوانين العامة التي تحدد المدة التي يتم بعدها التخلص منها‪ ،‬أما األوراق‬
+                                                     ‫التي تثبت حقوقا مستديمة فيتم حفظا بشكل دائم‪.‬‬
+                                                                        ‫لجنة تقييم الوثائق اإلدارية‬                 ‫‪5-3‬‬
+‫تشكل لجنة تسمى بلجنة تقييم الوثائق اإلدارية وتعقد سنوياً في األسبوع الثالث من شهر‬
+                                                                    ‫ديسمبر‪ ،‬وتتكون من ممثلين عن‪:‬‬
+                                                                                       ‫المساعدة اإلدارية‪.‬‬         ‫‪‬‬
+                                                                                       ‫المستشار القانوني‬          ‫‪‬‬
+                                                                            ‫مدراء إدارات إدارة المؤسسة‪.‬‬           ‫‪‬‬
+‫ويرأس أعمال هذه اللجنة المدير المالي وهو الذي يحدد بمذكرة منه إلى اإلدارات مواعيد ومكان‬                           ‫‪‬‬
+                                                                                   ‫انعقاد جلسات اللجنة‪.‬‬
+                                                                                    ‫مهام لجنة تقييم الوثائق اإلدارية‪:‬‬
+       ‫فحص بيانات نموذج استبعاد وإيداع الوثائق اإلدارية المقدمة من اإلدارات والتصديق عليها‪.‬‬                       ‫‪‬‬
+‫النظر في جدول االستبقاء‪ ،‬واقتراح تعديل مدد استبقاء بعض أنواع الوثائق‪ ،‬والموافقة على ما تراه‬                       ‫‪‬‬
+                                                                                            ‫صالحا منها‪.‬‬
+‫النظر في اإلضافات الذي يقدمها قسم األرشيف أو الصادر والوارد أو مدراء اإلدارات بتحديد مدد‬                          ‫‪‬‬
+            ‫استبقاء‪ ،‬أو استبعاد لنوعيات الوثائق اإلدارية التي لم ترد في الجداول وتقييمها وإقرارها‪.‬‬
+                                                                                                    ‫‪ .6‬الوثائق السرية‪-:‬‬
+‫أن جميع الوثائق اإلدارية الواردة و الصادرة أو المحفوظة هي معلومات سرية ال يجب اطالع أي شخص‬
+‫من غير المختصين عليها ‪ ،‬وهذا احتياط عام تقتضيه المحافظة على سرية العمل وبوجه عام فإن بعض‬
+‫الوثائق اإلدارية لها صفة سرية خاصة وهذه يجب أن يتحفظ عليها‪ ،‬وتعطي عناية خاصة خالل تداولها‬
+                                                                                         ‫وحفظها واإلطالع عليها ‪.‬‬
+                                                                 ‫تحديد درجة سرية المعلومات‪-:‬‬                        ‫‪6-1‬‬
+                                 ‫تصنف الوثائق في هذا الدليل من حيث السرية إلى أربعة أنواع و هي‪-:‬‬
+‫السري‪ :‬وهي المعلومات التي تتعلق باألفراد كالتقارير السرية السنوية ونتائج التحقيق مع األفراد‪ ،‬و‬                      ‫‪‬‬
+                ‫كذلك المعلومات التي تتعلق بموضوعات سرية في نطاق إحدى اإلدارات أو األقسام‪.‬‬
+‫السري جدا‪ :‬وهي المعلومات التي تتعلق بموضوعات يضر إفشاء سريتها بصالح إدارة الجمعية‪،‬‬                                  ‫‪‬‬
+                                              ‫وذلك مثل المشروعات التي تكون تحت الدراسة و البحث‪.‬‬
+‫السري للغاية‪ :‬وهي المعلومات التي تتعلق بموضوعات يضر إفشاء سريتها بصالح العام للسلطة‬                                 ‫‪‬‬
+                                ‫الوطنية الفلسطينية مثل أمور المفاوضات و االتفاقيات وما شابه ذلك‪.‬‬
+
+
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+‫‪Page 29 of 34‬‬                                                                                   ‫‪By: Wail Nassar Badah‬‬
+‫‪Office Management II‬‬                                                           ‫‪Chapter 1: Record Management‬‬
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+
+‫وهي المعلومات التي تتعلق بنظام أو خطة خاصة وتكون هذه‬                             ‫محظور االطالع عليه‪:‬‬                ‫‪‬‬
+‫الموضوعات بين أيدي األشخاص الذين يطبقونها ‪ ،‬ومحظور اطالع أي شخص عليها من غير‬
+                            ‫هؤالء األشخاص مثل استخدام نوع خاص أو معين من األجهزة والمعدات‪.‬‬
+                       ‫اإلرشادات واالحتياطات الالزمة لتداول وحفظ المعلومات السرية‪:‬‬                                  ‫‪6-2‬‬
+‫‪ ‬يجب دائماختم المغلفات والملفات التي تحوي معلومات سرية بختم السرية المناسب وذلك على‬
+                                                                            ‫المغلفات من الخارج دو نفتحه‪.‬‬
+                ‫‪ ‬ال يجوز مطلقا فتح المغلفات المختومة بختم السرية إال لألشخاص المصرح لهم بذلك‪.‬‬
+‫‪ ‬كل موظف ومستخدم مسئول عما بحوزته من معلومات سرية‪ ،‬ويكون معرضا للتحقيق معه‪ ،‬وإيقاع‬
+                   ‫العقوبة المناسبة في حالة إفشاء أو المساعدة على إفشاء أي من المعلومات السرية‪.‬‬
+‫‪ ‬يجب مراعاة أال يكون الغالف الخارجي الذي يغطي المعلومات السرية من النوع الشفاف‪ ،‬الذي يمكن‬
+                                                                                       ‫قراءة ما تحته بسهولة‬
+‫‪ ‬يراعى دائما حفظ المعلومات السرية في خزائن محصنة بحيث تكون بعيدة عن متناول أيدي الموظفين‬
+                                                                                ‫من غير ذوي االختصاص‪.‬‬
+‫ال يجوز بأي حال من األحوال نقل المعلومات السرية من مكان إلى مكان آخر إال في حالة نقلها إلى‬
+‫األشخاص المسموح لهم باإلطالع عليها‪ ،‬أوتصديرها إلى الجهات المختصة‪ ،‬مع مراعاة االحتياطات‬
+                                                                                                     ‫الضرورية‪.‬‬
+‫‪ ‬يجب العمل على حفظ األوراق التي تزول سريتها) بعد التأكد من ذلك (‪ ،‬مع المعلومات غير السرية‬
+                              ‫الموجودة في غرفة األرشيف‪ ،‬أو التخلص منها إذا كان انتهى العمل بها‪.‬‬
+                                      ‫‪ ‬يراعى دائما استخدام فرامة الوثائق في إتالف كافة الوثائق السرية‪.‬‬
+
+
+
+
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+‫‪Page 30 of 34‬‬                                                                                   ‫‪By: Wail Nassar Badah‬‬
+‫‪Office Management II‬‬                                                           ‫‪Chapter 1: Record Management‬‬
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+
+                                                                                 ‫‪ .7‬المــــــــــــــــــــــــــــــــــــــــــــــــــــــــالحـــق‪-:‬‬
+                                                                                 ‫ملحق رقم ‪ 1‬والخاص بـصورة كعب الملف‪.‬‬
+
+
+
+
+                                                                              ‫ملحق رقم ‪ 2‬والخاص بترميز ملفات الجمعية‪:‬‬
+
+
+    ‫‪S/No‬‬                  ‫االشارة‬                      ‫المجموعة األولى رقم (‪)1‬‬                                           ‫التصنيف‬
+
+                                                                                                                        ‫‪ -1‬اإلدارة العليا‬
+                                                    ‫مراسالت خاصة بالفروع‬                 ‫‪1.1.1‬‬               ‫‪ 1.1‬المراسالت‬
+                                                    ‫مراسالت خاصة بالبنوك‬                 ‫‪2.1.1‬‬
+                                                        ‫مراسالت واردة عامة‬               ‫‪3.1.1‬‬
+                                                      ‫مراسالت صادرة عامة‬                 ‫‪4.1.1‬‬
+                                                     ‫مراسالت صادرة داخلية‬                ‫‪5.1.1‬‬
+                                                      ‫مراسالت واردة داخلية‬               ‫‪6.1.1‬‬
+                                                                                                               ‫‪ 2.1‬التقارير‬
+                                                             ‫التقارير السنوية‬            ‫‪1.2.1‬‬
+                                                            ‫التقارير الشهرية‬             ‫‪2.2.1‬‬
+                                                                                                                   ‫‪ 3.1‬الخطط‬
+
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+‫‪Page 31 of 34‬‬                                                                                   ‫‪By: Wail Nassar Badah‬‬
+‫‪Office Management II‬‬                                                           ‫‪Chapter 1: Record Management‬‬
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+
+                                                       ‫الخطط السنوية‬              ‫‪1.3.1‬‬
+                                                  ‫الخطط االستراتيجية‬              ‫‪2.3.1‬‬
+                                                                                               ‫‪ 4.1‬المستشار القانوني‬
+                                                                                                        ‫‪ 5.1‬التطوع‬
+
+
+                                                                                                        ‫‪ .3‬اإلدارة المالية‬
+
+
+                                                                                                       ‫‪ 6.1‬التدريب‬
+                                                                                                     ‫‪ 7.1‬التقييمات‬
+                                                                                                        ‫‪ 8.1‬العقود‬
+                                                                                              ‫‪ 9.1‬النظام الداخي‬
+                                                                                                                       ‫للجمعية‬
+                                                                                           ‫‪ 10.1‬شئون الموظفين‬
+                                                                       ‫إجازات‬        ‫‪1.10.1‬‬
+                                                                      ‫عال وات‬        ‫‪2.10.1‬‬
+
+                                                                                                        ‫‪ -2‬العالقات العامة‬
+                                                                                                     ‫‪ 2.1‬مراسالت‬
+                                                    ‫مراسالت صادرة خارجية‬               ‫‪1.1.2‬‬
+                                                     ‫مراسالت صادرة داخلية‬              ‫‪2.1.2‬‬
+                                                      ‫مراسالت واردة خارجية‬             ‫‪3.1.2‬‬
+                                                      ‫مراسالت واردة داخلية‬             ‫‪4.1.2‬‬
+
+          ‫‪S/No‬‬                          ‫االشارة‬                 ‫المجموعة األولى رقم (‪)1‬‬                       ‫التصنيف‬
+                                                                                                                   ‫‪ 2.2‬مشاريع‬
+                                                                 ‫‪ 1.2.2‬مشروع تعزيز المرأة‬
+                                                                 ‫‪ 2.2.2‬مشروع صحة المرأة‬
+                                                                   ‫‪ 3.2.2‬مشروع مركز نوار‬
+
+
+
+
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+‫‪Page 32 of 34‬‬                                                                                   ‫‪By: Wail Nassar Badah‬‬
+‫‪Office Management II‬‬                                                           ‫‪Chapter 1: Record Management‬‬
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+
+                                                              ‫الموازنة‬               ‫‪1.3‬‬
+                                                            ‫المشاريع‬                 ‫‪2.3‬‬
+                                                              ‫‪1.2.3‬‬
+                                                              ‫‪2.2.3‬‬
+                                                              ‫‪3.2.3‬‬
+                                                            ‫الممولين‬                 ‫‪3.3‬‬
+                                                             ‫الشيكات‬                 ‫‪4.3‬‬
+                                                                                                       ‫‪ .4‬دائرة المشاريع‬
+                                                                                                                ‫‪ 1.4‬المراسالت‬
+                                            ‫مراسالت صادرة خارجية‬                  ‫‪1.1.4‬‬
+                                             ‫مراسالت صادرة داخلية‬                 ‫‪2.1.4‬‬
+                                             ‫مراسالت واردة خارجية‬                 ‫‪3.1.4‬‬
+                                              ‫مراسالت واردة داخلية‬                ‫‪4.1.4‬‬
+                                                                                                                 ‫‪ 4.2‬المشاريع‬
+                                                                                  ‫‪1.2.4‬‬
+                                                                                  ‫‪2.2.4‬‬
+                                                                                  ‫‪3.2.4‬‬
+                                                                                                         ‫‪ 3.4‬عروض األسعار‬
+                                                                                                       ‫‪ 4.4‬مقترحات المشاريع‬
+
+                                                                                                               ‫ملحق رقم ‪-:3‬‬
+                                                                                                ‫نموذج بطاقة حركة ملف‬
+                           ‫الموضوع‪.................‬‬                                                  ‫رقم الملف‪..............‬‬
+    ‫توقيع‬          ‫تاريخ‬        ‫تاريخ‬        ‫التاريخ‬       ‫القسم المختص‬          ‫رقم الخطاب الوارد وارد من‬                 ‫عدد األوراق‬
+                 ‫اإلعادة‬      ‫اإلعارة‬                                                                        ‫وتاريخه‬
+
+
+
+
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+‫‪Page 33 of 34‬‬                                                                                   ‫‪By: Wail Nassar Badah‬‬
+‫‪Office Management II‬‬                                                           ‫‪Chapter 1: Record Management‬‬
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+
+                                                                                     ‫ملحق رقم ‪ 4‬الخاص بنموذج اإلعارة‪-:‬‬
+                                                                                                            ‫نموذج بطاقة إعارة‬
+                             ‫‪..............‬رقم الملف‪.................‬عدد أوراقه‪........................‬رقم التصنيف‬
+                                            ‫الموضوع‪.................................................................‬‬
+                             ‫‪........................................................................‬الجهة المستعيرة‬
+                                     ‫اسم وتوقيع سكرتير اإلدارة‪......................‬‬                     ‫تاريخ التسليم‪..........‬‬
+                                                      ‫المتابعة‪..........................................................‬‬
+                                                                                                       ‫ملحق رقم ‪ 5‬الخاص بـ ـ‪:‬‬
+                                                                                                            ‫نموذج استالم ملف‪.‬‬
+                                                                      ‫جمعية _ _ _ _ _ _ _ _ _ _‬
+
+
+                                                                                    ‫إيصال است ـ ـ ـ ـ ـ ـالم ملف‬
+
+
+                                                                          ‫عدد األوراق‪:‬‬            ‫رقم الملف‪:‬‬
+
+
+                                                                                                   ‫الموضوع‪:‬‬
+
+
+                                                                                          ‫اإلدارة المستعيرة‪:‬‬
+
+
+                                                                                            ‫تاريخ االستالم‪:‬‬
+
+
+                                                                                                     ‫المستلم‪:‬‬
+
+
+                                                               ‫ملحق رقم ‪ 6‬الخاص ب ـ ـ‪ :‬تحويل الوثائق إلى قسم األرشيف‬
+                                                                       ‫النموذج الخاص بتحويل الوثائق إلى قسم األرشيف‬
+                                                                                                                         ‫الدائرة‪:‬‬
+                      ‫مالحظات‬             ‫تاريخ إغالق الملف‬          ‫عدد أوراق الملف‬            ‫موضوع الملف‬           ‫رقم الملف‬
+
+
+
+
+                                                                                                         ‫توقيع موظف األرشيف‬
+
+
+‫‪--------------------------------------------------------------------------------------------------------------------------------‬‬
+‫‪Page 34 of 34‬‬                                                                                   ‫‪By: Wail Nassar Badah‬‬
+

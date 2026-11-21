@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# بعد إنشاء المستودع، استبدل USERNAME و REPOSITORY بالرابط الفعلي لموقع GitHub Pages.
+Sitemap: https://USERNAME.github.io/REPOSITORY/sitemap.xml
